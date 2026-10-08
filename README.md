@@ -86,9 +86,14 @@ buttons. It was recorded from the running app with `tools/record_demo.py`, which
 the page with real mouse events. The pointer and the caption strip in the video are added
 by that script for the recording; they are not part of the app.
 
-## Live link
+## Links
 
-https://somaiyasat.happyflower-9030045b.centralindia.azurecontainerapps.io
+| | |
+|---|---|
+| **Live dashboard** (test the demo) | https://somaiyasat.happyflower-9030045b.centralindia.azurecontainerapps.io |
+| **Code** (this repository) | https://github.com/Suyash2205/somaiyasat-groundstation |
+| **Video demonstration** (Google Drive) | https://drive.google.com/file/d/1xPKPF4d2KMvbfVVCQZ-hYwQMMd8a8OB4/view |
+| **Two-page summary** | `docs/SomaiyaSat_Project_Summary.pdf` |
 
-The same Docker image, running on Azure Container Apps (0.25 vCPU, 0.5 GB, scales to zero).
-The first visit after an idle period takes a few seconds while the container starts.
+The live copy is the same Docker image on Azure Container Apps (0.25 vCPU, 0.5 GB, scales
+to zero). The first visit after an idle period takes a few seconds while the container starts.

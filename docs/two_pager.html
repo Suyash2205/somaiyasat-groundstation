@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>SomaiyaSat ground station: project summary</title>
+<link rel="stylesheet" href="../web/vendor/fonts.css">
+<style>
+  @page { size: A4; margin: 0; }
+  :root { --ink: #10161d; --dim: #5b6876; --line: #d5dbe2; --ice: #1f6fa8; --wash: #eef4f9; --amber: #a86400;
+          --hk: #2f8fd0; --img: #7d5fd0; --voice: #1f9d78; }
+  * { box-sizing: border-box; margin: 0; }
+  body { font: 400 9.6pt/1.42 "Barlow", system-ui, sans-serif; color: var(--ink); -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .page { width: 210mm; height: 297mm; padding: 13mm 15mm 11mm; position: relative; overflow: hidden; page-break-after: always; }
+  .page:last-child { page-break-after: auto; }
+  h1 { font: 400 19pt/1.15 "Michroma", sans-serif; letter-spacing: .06em; text-transform: uppercase; }
+  .sub { font-size: 11.5pt; color: var(--dim); margin-top: 3pt; }
+  .meta { font: 400 8pt/1.5 "JetBrains Mono", monospace; color: var(--dim); text-align: right; white-space: nowrap; }
+  header { display: flex; justify-content: space-between; align-items: flex-end; gap: 10mm; border-bottom: 1.5pt solid var(--ink); padding-bottom: 7pt; }
+  h2 { font: 400 7.6pt "Michroma", sans-serif; letter-spacing: .16em; text-transform: uppercase; color: var(--ice); margin: 11pt 0 4pt; }
+  p + p { margin-top: 4pt; }
+  ul, ol { padding-left: 13pt; }
+  li { margin-bottom: 2pt; }
+  b { font-weight: 600; }
+  a { color: var(--ice); text-decoration: none; word-break: break-all; }
+  .links { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6pt; margin-top: 9pt; }
+  .links div { background: var(--wash); border-left: 2.5pt solid var(--ice); padding: 6pt 8pt; }
+  .links b { display: block; font: 400 7.2pt "Michroma", sans-serif; letter-spacing: .12em; text-transform: uppercase; }
+  .links span { display: block; font-size: 8.4pt; color: var(--dim); margin: 1pt 0 3pt; }
+  .links a { font: 400 7.3pt/1.35 "JetBrains Mono", monospace; display: block; }
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 9mm; }
+  .built { display: grid; grid-template-columns: 1.55fr 1fr; gap: 7mm; align-items: start; }
+  figure img { width: 100%; display: block; border: .75pt solid var(--ink); }
+  figcaption { font-size: 8.2pt; color: var(--dim); margin-top: 3pt; }
+  table { border-collapse: collapse; width: 100%; font-size: 8.8pt; }
+  th { text-align: left; font-weight: 500; color: var(--dim); border-bottom: .75pt solid var(--ink); padding: 3pt 6pt 3pt 0; }
+  td { border-bottom: .5pt solid var(--line); padding: 3pt 6pt 3pt 0; font-family: "JetBrains Mono", monospace; font-size: 8.3pt; }
+  td:first-child { font: 400 8.8pt "Barlow", sans-serif; }
+  tr.hl td { background: var(--wash); font-weight: 600; }
+  .note { font-size: 8.2pt; color: var(--dim); }
+  .flow { display: grid; grid-template-columns: 1fr 10pt 1.25fr 10pt 1fr; align-items: stretch; margin: 5pt 0 3pt; }
+  .flow > div { border: .75pt solid var(--ink); padding: 5pt 7pt; font-size: 8.4pt; line-height: 1.35; }
+  .flow > div b { display: block; font: 400 6.8pt "Michroma", sans-serif; letter-spacing: .12em; text-transform: uppercase; margin-bottom: 2pt; }
+  .flow > i { align-self: center; text-align: center; font-style: normal; color: var(--dim); }
+  .flow .core { background: var(--wash); border-color: var(--ice); }
+  .key i { display: inline-block; width: 7pt; height: 7pt; border-radius: 1.5pt; margin-right: 3pt; vertical-align: -0.5pt; }
+  footer { position: absolute; left: 15mm; right: 15mm; bottom: 7mm; display: flex; justify-content: space-between; font: 400 7pt "JetBrains Mono", monospace; color: var(--dim); border-top: .5pt solid var(--line); padding-top: 3pt; }
+</style>
+</head>
+<body>
+
+<section class="page">
+  <header>
+    <div>
+      <h1>SomaiyaSat ground station</h1>
+      <p class="sub">An AI that decides what a tiny satellite should send home, shown on a live 3D dashboard</p>
+    </div>
+    <p class="meta">Cloud Computing · AI use case KJS-SRS-01<br>Suyash Humne · 16014223085 · Batch B2<br>K J Somaiya School of Engineering</p>
+  </header>
+
+  <div class="links">
+    <div><b>Live dashboard</b><span>Open it and test the demo yourself</span>
+      <a href="https://somaiyasat.happyflower-9030045b.centralindia.azurecontainerapps.io">https://somaiyasat.happyflower-9030045b.centralindia.azurecontainerapps.io</a></div>
+    <div><b>Code</b><span>GitHub repository with all source files</span>
+      <a href="https://github.com/Suyash2205/somaiyasat-groundstation">https://github.com/Suyash2205/somaiyasat-groundstation</a></div>
+    <div><b>Video demonstration</b><span>Google Drive, 2 min 47 s, anyone with the link can view</span>
+      <a href="https://drive.google.com/file/d/1xPKPF4d2KMvbfVVCQZ-hYwQMMd8a8OB4/view">https://drive.google.com/file/d/1xPKPF4d2KMvbfVVCQZ-hYwQMMd8a8OB4/view</a></div>
+  </div>
+
+  <h2>The problem</h2>
+  <p>SomaiyaSat is a PocketQube, a satellite about 5 cm across, planned by Somaiya Vidyavihar. A satellite this small has three hard limits:</p>
+  <ul>
+    <li><b>It can reach the ground station for only about 10 minutes at a time</b>, while it passes overhead.</li>
+    <li><b>The radio link is weak at the start and end of each pass</b> and strong in the middle.</li>
+    <li><b>The battery is small</b>, and every transmission drains it.</li>
+  </ul>
+  <p>It has three kinds of data waiting: <b>housekeeping</b> (small health reports, the most important), <b>image chunks</b> (large, need a strong link) and <b>voice/data</b> (in between). In each moment of the pass it must choose one to send, or stay silent. The traditional answer is a fixed order: housekeeping, then image, then voice, without looking at the link or the battery. That sends images when they cannot get through and keeps transmitting until the battery is nearly empty.</p>
+
+  <h2>What I built</h2>
+  <div class="built">
+    <figure>
+      <img src="dashboard.jpg" alt="The ground-station dashboard during a pass">
+      <figcaption>The dashboard during a replayed pass over Mumbai with heavy interference. Top tape: AI router. Bottom tape: fixed priority. A hollow box is data that was sent and lost.</figcaption>
+    </figure>
+    <ul>
+      <li><b>A router service</b> that takes link strength, battery level and the queue, and returns what to send, with the reason.</li>
+      <li><b>A ground-station dashboard</b>: a 3D globe with the satellite on its real orbit, the pass list for Vidyavihar, and both methods running side by side.</li>
+      <li><b>Operator controls</b> to add interference, force an eclipse, drain the battery, break the model, corrupt a sensor frame or switch to safe mode, and watch each method cope.</li>
+      <li><b>One Docker image</b> that runs the same on a laptop and in the cloud.</li>
+    </ul>
+  </div>
+
+  <h2>Why it is useful</h2>
+  <ul>
+    <li><b>More of the important data arrives.</b> On 300 test passes the AI delivered 92.5% of housekeeping against 84.2% for the fixed order.</li>
+    <li><b>Far less transmission is wasted.</b> 11.4% of the AI's transmissions were lost on a weak link, against 39.1%.</li>
+    <li><b>It can be tested before launch.</b> The use case lists testing "without access to a live orbital environment" as a challenge; this replays real pass geometry on the ground.</li>
+    <li><b>The decisions can be checked.</b> Every choice is logged with its reason, and a safety rule overrides the AI when it misbehaves.</li>
+  </ul>
+  <footer><span>SomaiyaSat ground station · project summary</span><span>1 / 2</span></footer>
+</section>
+
+<section class="page">
+  <h2 style="margin-top:0">How the solution works</h2>
+  <div class="flow">
+    <div><b>Input</b>Real orbit of a stand-in satellite. Link strength from the real distance. Battery and queue, simulated.</div>
+    <i>→</i>
+    <div class="core"><b>Processing: the router</b>A small decision tree picks housekeeping, image, voice or idle every 15 seconds. A watchdog checks each answer before it reaches the radio.</div>
+    <i>→</i>
+    <div><b>Output</b>The decision and its reason, the data delivered or lost, and the battery left, drawn on the dashboard.</div>
+  </div>
+  <ol>
+    <li><b>A solver finds the best schedule.</b> For 900 practice passes, a dynamic-programming solver that knows the whole pass in advance works out the best choice at every step. It is too heavy to fly and needs knowledge of the future, so it is used only as a teacher.</li>
+    <li><b>A small model learns to copy it.</b> A decision tree is trained on 32,569 of those choices using only what the satellite can know at that moment: link strength, elevation, time left, battery, sunlight and queue sizes. The trained tree is an 18 kB file of yes/no questions and takes about 2 microseconds per decision, with no machine-learning library at run time.</li>
+    <li><b>A watchdog guards it.</b> If the model gives an invalid answer, asks to send from an empty queue, would take the battery below the 20% floor, or leaves housekeeping unsent as the pass ends, the watchdog replaces the answer with a simple safe rule. The operator can also force safe mode.</li>
+    <li><b>The dashboard shows it.</b> The browser draws the globe and the satellite; the server plans the pass with both methods on the same link conditions, so the comparison is fair.</li>
+  </ol>
+
+  <h2>Results on 300 unseen passes</h2>
+  <table>
+    <tr><th>Method</th><th>Value delivered per pass</th><th>Housekeeping delivered</th><th>Transmissions lost</th><th>Battery at end</th></tr>
+    <tr><td>Fixed priority (the traditional rule)</td><td>116.8</td><td>84.2%</td><td>39.1%</td><td>50.9%</td></tr>
+    <tr><td>Safe rule alone (what the watchdog falls back to)</td><td>117.5</td><td>86.6%</td><td>11.6%</td><td>58.4%</td></tr>
+    <tr class="hl"><td>AI tree with watchdog</td><td>127.6</td><td>92.5%</td><td>11.4%</td><td>56.6%</td></tr>
+    <tr><td>Solver (upper bound, cannot fly)</td><td>133.5</td><td>95.3%</td><td>11.1%</td><td>55.9%</td></tr>
+  </table>
+  <p class="note" style="margin-top:3pt">Value: housekeeping 10 points, image chunk 4, voice 2. The tree agrees with the solver on 75.1% of decisions. These figures come from simulated scenarios on real pass geometry; none were measured on a satellite. The AI does not win every single pass on delivered data: on a low battery it sends less on purpose and ends with more charge.</p>
+
+  <div class="two">
+    <div>
+      <h2>What is real and what is simulated</h2>
+      <ul>
+        <li><b>Real:</b> the orbit, pass times, sky track and eclipse, computed from the tracking data of CroCube (NORAD 62394), a CubeSat used as a stand-in because SomaiyaSat has not flown.</li>
+        <li><b>Real:</b> the "Real telemetry" tab: 1,798 frames from 150 passes heard by 59 volunteer ground stations (SatNOGS network), decoded here.</li>
+        <li><b>Modelled:</b> link strength, from the real distance plus random fading.</li>
+        <li><b>Simulated:</b> battery, the data queue, and whether each transmission arrives.</li>
+      </ul>
+      <h2>Cloud side</h2>
+      <p>The app is one Docker image (FastAPI service plus the dashboard). It runs locally and on Azure Container Apps at 0.25 vCPU and 0.5 GB, scaling to zero when idle. The same image is the planned workload for the course experiments on containers, performance simulation, right-sizing and cost comparison.</p>
+    </div>
+    <div>
+      <h2>Try it in two minutes</h2>
+      <ol>
+        <li>Open the live dashboard. Drag the globe; the satellite is where it really is now.</li>
+        <li>Click <b>Play next pass</b> and compare the two tapes.</li>
+        <li>Set <b>Link interference</b> to 5 dB and watch fixed priority lose data.</li>
+        <li>Click <b>Break the model</b>: the watchdog takes over, shown in amber.</li>
+        <li>Click <b>Corrupt sensor frame</b>: the server rejects the bad reading.</li>
+      </ol>
+      <p class="note key" style="margin-top:3pt"><i style="background:var(--hk)"></i>housekeeping &nbsp; <i style="background:var(--img)"></i>image &nbsp; <i style="background:var(--voice)"></i>voice &nbsp; <i style="border:1pt solid var(--dim)"></i>sent but lost</p>
+      <p class="note" style="margin-top:3pt">The first load after an idle period takes a few seconds while the cloud container starts.</p>
+      <h2>Limits and acknowledgement</h2>
+      <ul>
+        <li>The link and battery models are simplified, and only one ground station is modelled.</li>
+        <li>No personal data is used; all inputs are public satellite data or synthetic.</li>
+        <li>AI assistance (Claude) was used to write code and this summary. Outputs were run and checked, and the figures above come from the project's own evaluation.</li>
+      </ul>
+    </div>
+  </div>
+  <footer><span>Suyash Humne · 16014223085 · Batch B2</span><span>2 / 2</span></footer>
+</section>
+</body>
+</html>
