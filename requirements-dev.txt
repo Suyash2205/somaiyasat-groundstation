@@ -1,0 +1,4 @@
+# only for retraining the model and refreshing the real-data cache
+-r requirements.txt
+scikit-learn==1.9.1
+satnogs-decoders==1.126.0

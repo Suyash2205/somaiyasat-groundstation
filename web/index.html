@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SomaiyaSat ground station</title>
+<link rel="stylesheet" href="vendor/fonts.css">
+<link rel="stylesheet" href="styles.css">
+<script type="importmap">{"imports": {"three": "./vendor/three.module.min.js"}}</script>
+</head>
+<body>
+<canvas id="globe" aria-label="3D globe showing the satellite, its orbit and the ground station"></canvas>
+<div id="satlabel" class="satlabel" hidden><b>SOMAIYASAT</b><span id="satlabel-sub"></span></div>
+
+<header class="bar">
+  <div class="brand">
+    <span class="mark" aria-hidden="true"></span>
+    <div><h1>SomaiyaSat</h1><p>Ground station · Vidyavihar, Mumbai</p></div>
+  </div>
+  <div class="clock">
+    <span id="mode" class="mode">LIVE</span>
+    <time id="utc">--:--:--</time><span class="unit">UTC</span>
+    <span id="tplus" class="tplus"></span>
+  </div>
+  <nav class="tabs" aria-label="Views">
+    <button data-view="pass" class="on">Pass</button>
+    <button data-view="real">Real telemetry</button>
+    <button data-view="model">Router model</button>
+  </nav>
+</header>
+
+<aside class="col left">
+  <section class="card">
+    <div class="head"><h2>Next passes</h2><span class="tag real" title="Computed with SGP4 from real orbital elements">Real orbit</span></div>
+    <button id="jump" class="primary">Play next pass</button>
+    <ol id="passes" class="passes"></ol>
+  </section>
+  <section class="card controls">
+    <div class="head"><h2>Operator</h2></div>
+    <div class="row speed" role="group" aria-label="Playback speed">
+      <button id="pause" title="Pause or resume">Pause</button>
+      <button data-speed="5">5×</button><button data-speed="20" class="on">20×</button><button data-speed="60">60×</button>
+    </div>
+    <label class="slider">Battery at start <output id="o-soc">70%</output>
+      <input id="c-soc" type="range" min="22" max="100" value="70"></label>
+    <label class="slider">Link interference <output id="o-loss">0 dB</output>
+      <input id="c-loss" type="range" min="0" max="12" value="0" step="1"></label>
+    <div class="row faults">
+      <button id="f-eclipse" aria-pressed="false" title="Remove solar charging for the rest of the pass">Force eclipse</button>
+      <button id="f-drain" title="Drop both batteries to 28% now">Drain battery</button>
+      <button id="f-fault" aria-pressed="false" title="Make the model return garbage for 5 slots">Break the model</button>
+      <button id="f-corrupt" aria-pressed="false" title="Feed an invalid sensor frame for 3 slots">Corrupt sensor frame</button>
+      <button id="f-safe" aria-pressed="false" class="safe" title="Housekeeping only until released">Safe mode</button>
+    </div>
+  </section>
+</aside>
+
+<aside class="col right">
+  <section class="card">
+    <div class="head"><h2>Link</h2><span class="tag model" title="Free-space loss from the real slant range, plus simulated fading">Modelled</span></div>
+    <div class="big"><span id="snr">–</span><small>dB</small>
+      <dl class="mini"><div><dt>Elevation</dt><dd id="elev">–</dd></div><div><dt>Range</dt><dd id="range">–</dd></div></dl>
+    </div>
+    <div class="snrbar"><i id="snrfill"></i>
+      <b style="--at:4" data-l="HK"></b><b style="--at:9" data-l="Voice"></b><b style="--at:13" data-l="Image"></b>
+    </div>
+  </section>
+
+  <section class="card">
+    <div class="head"><h2>Battery</h2><span id="sun" class="note">–</span></div>
+    <div class="batt"><label>AI router</label><div class="track"><i id="batt-ai"></i></div><output id="batt-ai-n">–</output></div>
+    <div class="batt"><label>Fixed priority</label><div class="track"><i id="batt-base"></i></div><output id="batt-base-n">–</output></div>
+    <p class="scale"><span class="l" style="--at:20">floor 20%</span><span style="--at:40">reserve 40%</span></p>
+  </section>
+
+  <section class="card">
+    <div class="head"><h2>Waiting to downlink</h2><span class="tag model">Simulated</span></div>
+    <div class="queue"><label><i class="sw hk"></i>Housekeeping</label><div id="q-hk" class="pips hk"></div></div>
+    <div class="queue"><label><i class="sw img"></i>Image chunks</label><div id="q-img" class="pips img"></div></div>
+    <div class="queue"><label><i class="sw voice"></i>Voice / data</label><div id="q-voice" class="pips voice"></div></div>
+  </section>
+
+  <section class="card skycard">
+    <div class="head"><h2>Sky view</h2><span id="skyinfo" class="note"></span></div>
+    <svg id="sky" viewBox="-110 -110 220 220" role="img" aria-label="Path of the satellite across the sky"></svg>
+  </section>
+</aside>
+
+<footer class="deck">
+  <section class="card log">
+    <div class="head"><h2>Router decisions</h2><span class="note">newest first</span></div>
+    <ol id="log"><li class="empty">Play a pass to see each decision and the reason for it.</li></ol>
+  </section>
+  <section class="card race">
+    <div class="lane">
+      <div class="who"><b>AI router</b><span>tree + watchdog</span></div>
+      <div id="tape-ai" class="tape"></div>
+      <div class="score"><strong id="s-ai">0</strong><span id="d-ai">–</span></div>
+    </div>
+    <div class="lane mid">
+      <div class="who"><span>Link strength</span></div>
+      <svg id="spark" preserveAspectRatio="none" viewBox="0 0 100 30"></svg>
+      <div class="score legend"><i class="sw hk"></i>HK <i class="sw img"></i>Image <i class="sw voice"></i>Voice <i class="sw lost"></i>lost</div>
+    </div>
+    <div class="lane">
+      <div class="who"><b>Fixed priority</b><span>HK › image › voice</span></div>
+      <div id="tape-base" class="tape"></div>
+      <div class="score"><strong id="s-base">0</strong><span id="d-base">–</span></div>
+    </div>
+  </section>
+</footer>
+
+<section id="view-real" class="drawer" hidden></section>
+<section id="view-model" class="drawer" hidden></section>
+<div id="toast" class="toast" role="status" hidden></div>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>

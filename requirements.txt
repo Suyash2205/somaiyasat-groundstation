@@ -1,0 +1,5 @@
+# runtime: what the container needs to serve the router and dashboard
+fastapi==0.142.2
+uvicorn[standard]==0.54.0
+numpy==2.5.3
+sgp4==2.27

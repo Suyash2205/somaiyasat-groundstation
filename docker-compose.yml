@@ -1,0 +1,13 @@
+services:
+  groundstation:
+    image: suyash2215/somaiyasat-groundstation:1.0
+    build: .
+    ports:
+      - "8088:8000"
+    environment:
+      WORKERS: "1"
+    deploy:
+      resources:
+        limits:
+          cpus: "1.0"
+          memory: 256M

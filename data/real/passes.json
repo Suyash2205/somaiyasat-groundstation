@@ -1,0 +1,3140 @@
+[
+ {
+  "id": 15084080,
+  "start": "2026-10-01T03:56:40Z",
+  "end": "2026-10-01T04:05:49Z",
+  "station": "W2MMD GCARC Clubhouse",
+  "lat": 39.716,
+  "lng": -75.21,
+  "max_elevation": 75.0,
+  "frames_total": 1,
+  "counts": {
+   "payload": 1
+  },
+  "bytes": {
+   "payload": 50
+  },
+  "beacons": []
+ },
+ {
+  "id": 15084121,
+  "start": "2026-10-01T03:56:50Z",
+  "end": "2026-10-01T04:04:08Z",
+  "station": "N1JFU",
+  "lat": 42.039621,
+  "lng": -71.063597,
+  "max_elevation": 71.0,
+  "frames_total": 2,
+  "counts": {
+   "payload": 2
+  },
+  "bytes": {
+   "payload": 252
+  },
+  "beacons": []
+ },
+ {
+  "id": 15093751,
+  "start": "2026-10-01T03:57:28Z",
+  "end": "2026-10-01T04:09:48Z",
+  "station": "JF6FYI Nishikazu, KitaKyushu, 3-ele Yagi(UHF)",
+  "lat": 33.895,
+  "lng": 130.84,
+  "max_elevation": 49.0,
+  "frames_total": 12,
+  "counts": {
+   "payload": 12
+  },
+  "bytes": {
+   "payload": 1002
+  },
+  "beacons": []
+ },
+ {
+  "id": 15093715,
+  "start": "2026-10-01T03:57:28Z",
+  "end": "2026-10-01T04:04:12Z",
+  "station": "JF6FYI Nishikazu, KitaKyushu, QFH (UHF)",
+  "lat": 33.895,
+  "lng": 130.84,
+  "max_elevation": 49.0,
+  "frames_total": 9,
+  "counts": {
+   "payload": 9
+  },
+  "bytes": {
+   "payload": 807
+  },
+  "beacons": []
+ },
+ {
+  "id": 15084075,
+  "start": "2026-10-01T03:57:28Z",
+  "end": "2026-10-01T04:03:24Z",
+  "station": "Grove-UHF-01",
+  "lat": 42.314,
+  "lng": -71.448,
+  "max_elevation": 75.0,
+  "frames_total": 5,
+  "counts": {
+   "payload": 5
+  },
+  "bytes": {
+   "payload": 402
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095097,
+  "start": "2026-10-01T03:58:23Z",
+  "end": "2026-10-01T04:09:16Z",
+  "station": "NKUA EVRIPOS - UHF",
+  "lat": 38.570309,
+  "lng": 23.648147,
+  "max_elevation": 56.0,
+  "frames_total": 15,
+  "counts": {
+   "payload": 15
+  },
+  "bytes": {
+   "payload": 342
+  },
+  "beacons": []
+ },
+ {
+  "id": 15084120,
+  "start": "2026-10-01T03:58:30Z",
+  "end": "2026-10-01T04:05:48Z",
+  "station": "LSTN Station at Gates County Public Library",
+  "lat": 36.408,
+  "lng": -76.756,
+  "max_elevation": 68.0,
+  "frames_total": 1,
+  "counts": {
+   "payload": 1
+  },
+  "bytes": {
+   "payload": 50
+  },
+  "beacons": []
+ },
+ {
+  "id": 15084098,
+  "start": "2026-10-01T04:00:09Z",
+  "end": "2026-10-01T04:05:39Z",
+  "station": "KU4YJ",
+  "lat": 34.71426,
+  "lng": -86.75529,
+  "max_elevation": 20.0,
+  "frames_total": 9,
+  "counts": {
+   "payload": 9
+  },
+  "bytes": {
+   "payload": 922
+  },
+  "beacons": []
+ },
+ {
+  "id": 15091439,
+  "start": "2026-10-01T04:00:30Z",
+  "end": "2026-10-01T04:12:08Z",
+  "station": "BEEGND-1",
+  "lat": 52.073657,
+  "lng": 12.462608,
+  "max_elevation": 28.0,
+  "frames_total": 0,
+  "counts": {},
+  "bytes": {},
+  "beacons": []
+ },
+ {
+  "id": 15084134,
+  "start": "2026-10-01T04:01:01Z",
+  "end": "2026-10-01T04:04:48Z",
+  "station": "CCU Ground Station",
+  "lat": 33.796348,
+  "lng": -79.011117,
+  "max_elevation": 54.0,
+  "frames_total": 4,
+  "counts": {
+   "payload": 4
+  },
+  "bytes": {
+   "payload": 284
+  },
+  "beacons": []
+ },
+ {
+  "id": 15084170,
+  "start": "2026-10-01T04:01:41Z",
+  "end": "2026-10-01T04:05:58Z",
+  "station": "B1LL",
+  "lat": 30.62002,
+  "lng": -81.62008,
+  "max_elevation": 41.0,
+  "frames_total": 9,
+  "counts": {
+   "payload": 9
+  },
+  "bytes": {
+   "payload": 1178
+  },
+  "beacons": []
+ },
+ {
+  "id": 15090620,
+  "start": "2026-10-01T04:01:54Z",
+  "end": "2026-10-01T04:07:26Z",
+  "station": "Peters-GS1",
+  "lat": 37.370276,
+  "lng": 126.872024,
+  "max_elevation": 73.0,
+  "frames_total": 13,
+  "counts": {
+   "payload": 13
+  },
+  "bytes": {
+   "payload": 1178
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095134,
+  "start": "2026-10-01T04:03:52Z",
+  "end": "2026-10-01T04:09:45Z",
+  "station": "IU0JIW",
+  "lat": 41.498897,
+  "lng": 12.629148,
+  "max_elevation": 20.0,
+  "frames_total": 0,
+  "counts": {},
+  "bytes": {},
+  "beacons": []
+ },
+ {
+  "id": 15093079,
+  "start": "2026-10-01T04:04:03Z",
+  "end": "2026-10-01T04:15:05Z",
+  "station": "M0JFP Staines Space and weather UHF",
+  "lat": 51.438,
+  "lng": -0.458,
+  "max_elevation": 31.0,
+  "frames_total": 4,
+  "counts": {
+   "payload": 4
+  },
+  "bytes": {
+   "payload": 206
+  },
+  "beacons": []
+ },
+ {
+  "id": 15083671,
+  "start": "2026-10-01T04:04:48Z",
+  "end": "2026-10-01T04:14:52Z",
+  "station": "yellowstone_yagi",
+  "lat": 45.776,
+  "lng": -111.177,
+  "max_elevation": 18.0,
+  "frames_total": 9,
+  "counts": {
+   "payload": 9
+  },
+  "bytes": {
+   "payload": 1200
+  },
+  "beacons": []
+ },
+ {
+  "id": 15090313,
+  "start": "2026-10-01T04:08:57Z",
+  "end": "2026-10-01T04:15:37Z",
+  "station": "berlin_ma_sat",
+  "lat": 42.377778,
+  "lng": -71.658333,
+  "max_elevation": 55.0,
+  "frames_total": 1,
+  "counts": {
+   "payload": 1
+  },
+  "bytes": {
+   "payload": 165
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095135,
+  "start": "2026-10-01T04:09:57Z",
+  "end": "2026-10-01T04:17:43Z",
+  "station": "IU0JIW",
+  "lat": 41.498897,
+  "lng": 12.629148,
+  "max_elevation": 80.0,
+  "frames_total": 0,
+  "counts": {},
+  "bytes": {},
+  "beacons": []
+ },
+ {
+  "id": 15095098,
+  "start": "2026-10-01T04:10:20Z",
+  "end": "2026-10-01T04:15:19Z",
+  "station": "NKUA EVRIPOS - UHF",
+  "lat": 38.570309,
+  "lng": 23.648147,
+  "max_elevation": 57.0,
+  "frames_total": 6,
+  "counts": {
+   "payload": 6
+  },
+  "bytes": {
+   "payload": 630
+  },
+  "beacons": []
+ },
+ {
+  "id": 15092093,
+  "start": "2026-10-01T04:11:25Z",
+  "end": "2026-10-01T04:22:05Z",
+  "station": "EuroSpaceHub-UCM",
+  "lat": 39.569,
+  "lng": -3.186,
+  "max_elevation": 73.0,
+  "frames_total": 1,
+  "counts": {
+   "message": 1
+  },
+  "bytes": {
+   "message": 140
+  },
+  "beacons": [
+   {
+    "t": "2026-10-01T04-16-56",
+    "kind": "message",
+    "fields": {
+     "message": "Young voice from Mladost Zagreb. Our hope: a future where kindness shines brighter than stars and peace connects all people."
+    }
+   }
+  ]
+ },
+ {
+  "id": 15095452,
+  "start": "2026-10-01T04:15:23Z",
+  "end": "2026-10-01T04:23:23Z",
+  "station": "NKUA EVRIPOS - UHF",
+  "lat": 38.570309,
+  "lng": 23.648147,
+  "max_elevation": 62.0,
+  "frames_total": 10,
+  "counts": {
+   "payload": 10
+  },
+  "bytes": {
+   "payload": 1050
+  },
+  "beacons": []
+ },
+ {
+  "id": 15083499,
+  "start": "2026-10-01T04:16:30Z",
+  "end": "2026-10-01T04:26:50Z",
+  "station": "Piszkesteto UHF",
+  "lat": 47.917,
+  "lng": 19.895,
+  "max_elevation": 43.0,
+  "frames_total": 13,
+  "counts": {
+   "U": 10,
+   "message": 2,
+   "payload": 1
+  },
+  "bytes": {
+   "U": 850,
+   "message": 280,
+   "payload": 4
+  },
+  "beacons": [
+   {
+    "t": "2026-10-01T04-19-36",
+    "kind": "U",
+    "fields": {
+     "uhf_uptime": 21078263,
+     "uhf_uptime_tot": 56040378,
+     "uhf_reset_cnt": 18,
+     "uhf_rf_reset_cnt": 0,
+     "uhf_trx_temp": 211,
+     "uhf_rf_temp": 242,
+     "uhf_pa_temp": -56,
+     "uhf_digipeater_cnt": 728,
+     "uhf_last_digipeater": "DL7NDR",
+     "uhf_rx_cnt": 31565,
+     "uhf_tx_cnt": 3237415,
+     "uhf_act_rssi_raw": 93,
+     "uhf_dcd_rssi_raw": 120,
+     "uhf_beacon_raw": "U,21078263,56040378,18,0,211,242,-56,728,DL7NDR,31565,3237415,93,120"
+    }
+   },
+   {
+    "t": "2026-10-01T04-18-06",
+    "kind": "U",
+    "fields": {
+     "uhf_uptime": 21078173,
+     "uhf_uptime_tot": 56040288,
+     "uhf_reset_cnt": 18,
+     "uhf_rf_reset_cnt": 0,
+     "uhf_trx_temp": 256,
+     "uhf_rf_temp": 308,
+     "uhf_pa_temp": 12,
+     "uhf_digipeater_cnt": 728,
+     "uhf_last_digipeater": "DL7NDR",
+     "uhf_rx_cnt": 31565,
+     "uhf_tx_cnt": 3237414,
+     "uhf_act_rssi_raw": 88,
+     "uhf_dcd_rssi_raw": 120,
+     "uhf_beacon_raw": "U,21078173,56040288,18,0,256,308,12,728,DL7NDR,31565,3237414,88,120"
+    }
+   },
+   {
+    "t": "2026-10-01T04-22-36",
+    "kind": "U",
+    "fields": {
+     "uhf_uptime": 21078443,
+     "uhf_uptime_tot": 56040558,
+     "uhf_reset_cnt": 18,
+     "uhf_rf_reset_cnt": 0,
+     "uhf_trx_temp": 87,
+     "uhf_rf_temp": 155,
+     "uhf_pa_temp": -150,
+     "uhf_digipeater_cnt": 728,
+     "uhf_last_digipeater": "DL7NDR",
+     "uhf_rx_cnt": 31565,
+     "uhf_tx_cnt": 3237418,
+     "uhf_act_rssi_raw": 95,
+     "uhf_dcd_rssi_raw": 120,
+     "uhf_beacon_raw": "U,21078443,56040558,18,0,87,155,-150,728,DL7NDR,31565,3237418,95,120"
+    }
+   },
+   {
+    "t": "2026-10-01T04-21-06",
+    "kind": "U",
+    "fields": {
+     "uhf_uptime": 21078353,
+     "uhf_uptime_tot": 56040468,
+     "uhf_reset_cnt": 18,
+     "uhf_rf_reset_cnt": 0,
+     "uhf_trx_temp": 144,
+     "uhf_rf_temp": 198,
+     "uhf_pa_temp": -112,
+     "uhf_digipeater_cnt": 728,
+     "uhf_last_digipeater": "DL7NDR",
+     "uhf_rx_cnt": 31565,
+     "uhf_tx_cnt": 3237416,
+     "uhf_act_rssi_raw": 93,
+     "uhf_dcd_rssi_raw": 120,
+     "uhf_beacon_raw": "U,21078353,56040468,18,0,144,198,-112,728,DL7NDR,31565,3237416,93,120"
+    }
+   },
+   {
+    "t": "2026-10-01T04-21-26",
+    "kind": "message",
+    "fields": {
+     "message": "Young voice from Mladost Zagreb. Our hope: a future where kindness shines brighter than stars and peace connects all people."
+    }
+   },
+   {
+    "t": "2026-10-01T04-25-36",
+    "kind": "U",
+    "fields": {
+     "uhf_uptime": 21078623,
+     "uhf_uptime_tot": 56040738,
+     "uhf_reset_cnt": 18,
+     "uhf_rf_reset_cnt": 0,
+     "uhf_trx_temp": 54,
+     "uhf_rf_temp": 133,
+     "uhf_pa_temp": -168,
+     "uhf_digipeater_cnt": 728,
+     "uhf_last_digipeater": "DL7NDR",
+     "uhf_rx_cnt": 31565,
+     "uhf_tx_cnt": 3237420,
+     "uhf_act_rssi_raw": 95,
+     "uhf_dcd_rssi_raw": 120,
+     "uhf_beacon_raw": "U,21078623,56040738,18,0,54,133,-168,728,DL7NDR,31565,3237420,95,120"
+    }
+   },
+   {
+    "t": "2026-10-01T04-24-06",
+    "kind": "U",
+    "fields": {
+     "uhf_uptime": 21078533,
+     "uhf_uptime_tot": 56040648,
+     "uhf_reset_cnt": 18,
+     "uhf_rf_reset_cnt": 0,
+     "uhf_trx_temp": 65,
+     "uhf_rf_temp": 111,
+     "uhf_pa_temp": -168,
+     "uhf_digipeater_cnt": 728,
+     "uhf_last_digipeater": "DL7NDR",
+     "uhf_rx_cnt": 31565,
+     "uhf_tx_cnt": 3237419,
+     "uhf_act_rssi_raw": 95,
+     "uhf_dcd_rssi_raw": 120,
+     "uhf_beacon_raw": "U,21078533,56040648,18,0,65,111,-168,728,DL7NDR,31565,3237419,95,120"
+    }
+   },
+   {
+    "t": "2026-10-01T04-21-10",
+    "kind": "message",
+    "fields": {
+     "message": "Young voice from Mladost Zagreb. Our hope: a future where kindness shines brighter than stars and peace connects all people."
+    }
+   },
+   {
+    "t": "2026-10-01T04-20-50",
+    "kind": "U",
+    "fields": {
+     "uhf_uptime": 21078353,
+     "uhf_uptime_tot": 56040468,
+     "uhf_reset_cnt": 18,
+     "uhf_rf_reset_cnt": 0,
+     "uhf_trx_temp": 144,
+     "uhf_rf_temp": 198,
+     "uhf_pa_temp": -112,
+     "uhf_digipeater_cnt": 728,
+     "uhf_last_digipeater": "DL7NDR",
+     "uhf_rx_cnt": 31565,
+     "uhf_tx_cnt": 3237416,
+     "uhf_act_rssi_raw": 93,
+     "uhf_dcd_rssi_raw": 120,
+     "uhf_beacon_raw": "U,21078353,56040468,18,0,144,198,-112,728,DL7NDR,31565,3237416,93,120"
+    }
+   },
+   {
+    "t": "2026-10-01T04-17-50",
+    "kind": "U",
+    "fields": {
+     "uhf_uptime": 21078173,
+     "uhf_uptime_tot": 56040288,
+     "uhf_reset_cnt": 18,
+     "uhf_rf_reset_cnt": 0,
+     "uhf_trx_temp": 256,
+     "uhf_rf_temp": 308,
+     "uhf_pa_temp": 12,
+     "uhf_digipeater_cnt": 728,
+     "uhf_last_digipeater": "DL7NDR",
+     "uhf_rx_cnt": 31565,
+     "uhf_tx_cnt": 3237414,
+     "uhf_act_rssi_raw": 88,
+     "uhf_dcd_rssi_raw": 120,
+     "uhf_beacon_raw": "U,21078173,56040288,18,0,256,308,12,728,DL7NDR,31565,3237414,88,120"
+    }
+   },
+   {
+    "t": "2026-10-01T04-25-20",
+    "kind": "U",
+    "fields": {
+     "uhf_uptime": 21078623,
+     "uhf_uptime_tot": 56040738,
+     "uhf_reset_cnt": 18,
+     "uhf_rf_reset_cnt": 0,
+     "uhf_trx_temp": 54,
+     "uhf_rf_temp": 133,
+     "uhf_pa_temp": -168,
+     "uhf_digipeater_cnt": 728,
+     "uhf_last_digipeater": "DL7NDR",
+     "uhf_rx_cnt": 31565,
+     "uhf_tx_cnt": 3237420,
+     "uhf_act_rssi_raw": 95,
+     "uhf_dcd_rssi_raw": 120,
+     "uhf_beacon_raw": "U,21078623,56040738,18,0,54,133,-168,728,DL7NDR,31565,3237420,95,120"
+    }
+   },
+   {
+    "t": "2026-10-01T04-22-20",
+    "kind": "U",
+    "fields": {
+     "uhf_uptime": 21078443,
+     "uhf_uptime_tot": 56040558,
+     "uhf_reset_cnt": 18,
+     "uhf_rf_reset_cnt": 0,
+     "uhf_trx_temp": 87,
+     "uhf_rf_temp": 155,
+     "uhf_pa_temp": -150,
+     "uhf_digipeater_cnt": 728,
+     "uhf_last_digipeater": "DL7NDR",
+     "uhf_rx_cnt": 31565,
+     "uhf_tx_cnt": 3237418,
+     "uhf_act_rssi_raw": 95,
+     "uhf_dcd_rssi_raw": 120,
+     "uhf_beacon_raw": "U,21078443,56040558,18,0,87,155,-150,728,DL7NDR,31565,3237418,95,120"
+    }
+   }
+  ]
+ },
+ {
+  "id": 15095401,
+  "start": "2026-10-01T04:17:05Z",
+  "end": "2026-10-01T04:20:07Z",
+  "station": "MEGANISI_1",
+  "lat": 38.65,
+  "lng": 20.739,
+  "max_elevation": 45.0,
+  "frames_total": 4,
+  "counts": {
+   "payload": 4
+  },
+  "bytes": {
+   "payload": 420
+  },
+  "beacons": []
+ },
+ {
+  "id": 15092627,
+  "start": "2026-10-01T04:18:15Z",
+  "end": "2026-10-01T04:24:02Z",
+  "station": "VE2DSK-VHF-UHF",
+  "lat": 45.651,
+  "lng": -73.564,
+  "max_elevation": 32.0,
+  "frames_total": 12,
+  "counts": {
+   "payload": 12
+  },
+  "bytes": {
+   "payload": 811
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095446,
+  "start": "2026-10-01T04:18:45Z",
+  "end": "2026-10-01T04:29:42Z",
+  "station": "VU2JEK_Nitin",
+  "lat": 13.1458,
+  "lng": 77.5417,
+  "max_elevation": 43.0,
+  "frames_total": 15,
+  "counts": {
+   "payload": 15
+  },
+  "bytes": {
+   "payload": 1479
+  },
+  "beacons": []
+ },
+ {
+  "id": 15089235,
+  "start": "2026-10-01T04:21:01Z",
+  "end": "2026-10-01T04:26:53Z",
+  "station": "KH6DAD-UHF EggNOG",
+  "lat": 21.357,
+  "lng": -158.035,
+  "max_elevation": 72.0,
+  "frames_total": 1,
+  "counts": {
+   "payload": 1
+  },
+  "bytes": {
+   "payload": 165
+  },
+  "beacons": []
+ },
+ {
+  "id": 15089163,
+  "start": "2026-10-01T04:21:03Z",
+  "end": "2026-10-01T04:28:38Z",
+  "station": "WH6GVF UHF",
+  "lat": 19.415,
+  "lng": -154.892,
+  "max_elevation": 88.0,
+  "frames_total": 5,
+  "counts": {
+   "payload": 5
+  },
+  "bytes": {
+   "payload": 825
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095049,
+  "start": "2026-10-01T04:21:22Z",
+  "end": "2026-10-01T04:25:02Z",
+  "station": "PE0SAT-21",
+  "lat": 51.721268,
+  "lng": 5.029968,
+  "max_elevation": 53.0,
+  "frames_total": 25,
+  "counts": {
+   "payload": 25
+  },
+  "bytes": {
+   "payload": 2025
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095055,
+  "start": "2026-10-01T04:21:42Z",
+  "end": "2026-10-01T04:24:42Z",
+  "station": "PE0SAT-31",
+  "lat": 51.721268,
+  "lng": 5.029,
+  "max_elevation": 52.0,
+  "frames_total": 19,
+  "counts": {
+   "payload": 19
+  },
+  "bytes": {
+   "payload": 1539
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095056,
+  "start": "2026-10-01T04:22:17Z",
+  "end": "2026-10-01T04:25:17Z",
+  "station": "PE0SAT-12",
+  "lat": 51.721268,
+  "lng": 5.029968,
+  "max_elevation": 53.0,
+  "frames_total": 14,
+  "counts": {
+   "payload": 14
+  },
+  "bytes": {
+   "payload": 1134
+  },
+  "beacons": []
+ },
+ {
+  "id": 15092625,
+  "start": "2026-10-01T04:22:31Z",
+  "end": "2026-10-01T04:26:18Z",
+  "station": "Jim UHF",
+  "lat": 33.797628,
+  "lng": -79.159123,
+  "max_elevation": 34.0,
+  "frames_total": 2,
+  "counts": {
+   "payload": 2
+  },
+  "bytes": {
+   "payload": 91
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095402,
+  "start": "2026-10-01T04:24:37Z",
+  "end": "2026-10-01T04:28:12Z",
+  "station": "MEGANISI_1",
+  "lat": 38.65,
+  "lng": 20.739,
+  "max_elevation": 58.0,
+  "frames_total": 6,
+  "counts": {
+   "payload": 6
+  },
+  "bytes": {
+   "payload": 630
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095453,
+  "start": "2026-10-01T04:24:39Z",
+  "end": "2026-10-01T04:36:36Z",
+  "station": "NKUA EVRIPOS - UHF",
+  "lat": 38.570309,
+  "lng": 23.648147,
+  "max_elevation": 41.0,
+  "frames_total": 27,
+  "counts": {
+   "payload": 27
+  },
+  "bytes": {
+   "payload": 463
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095485,
+  "start": "2026-10-01T04:26:43Z",
+  "end": "2026-10-01T04:37:03Z",
+  "station": "IU0JIW",
+  "lat": 41.498897,
+  "lng": 12.629148,
+  "max_elevation": 81.0,
+  "frames_total": 0,
+  "counts": {},
+  "bytes": {},
+  "beacons": []
+ },
+ {
+  "id": 15088438,
+  "start": "2026-10-01T04:27:29Z",
+  "end": "2026-10-01T04:34:48Z",
+  "station": "VE2DSK-VHF-UHF",
+  "lat": 45.651,
+  "lng": -73.564,
+  "max_elevation": 45.0,
+  "frames_total": 43,
+  "counts": {
+   "payload": 43
+  },
+  "bytes": {
+   "payload": 3268
+  },
+  "beacons": []
+ },
+ {
+  "id": 15088466,
+  "start": "2026-10-01T04:31:50Z",
+  "end": "2026-10-01T04:37:06Z",
+  "station": "Jim UHF",
+  "lat": 33.797628,
+  "lng": -79.159123,
+  "max_elevation": 50.0,
+  "frames_total": 1,
+  "counts": {
+   "payload": 1
+  },
+  "bytes": {
+   "payload": 80
+  },
+  "beacons": []
+ },
+ {
+  "id": 15088396,
+  "start": "2026-10-01T04:32:41Z",
+  "end": "2026-10-01T04:38:10Z",
+  "station": "B1LL",
+  "lat": 30.62002,
+  "lng": -81.62008,
+  "max_elevation": 60.0,
+  "frames_total": 68,
+  "counts": {
+   "payload": 50
+  },
+  "bytes": {
+   "payload": 3781
+  },
+  "beacons": []
+ },
+ {
+  "id": 15088422,
+  "start": "2026-10-01T04:33:45Z",
+  "end": "2026-10-01T04:38:15Z",
+  "station": "KD5QZG - VHF/UHF",
+  "lat": 30.179,
+  "lng": -92.054,
+  "max_elevation": 37.0,
+  "frames_total": 2,
+  "counts": {
+   "payload": 2
+  },
+  "bytes": {
+   "payload": 160
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095486,
+  "start": "2026-10-01T04:40:23Z",
+  "end": "2026-10-01T04:45:53Z",
+  "station": "IU0JIW",
+  "lat": 41.498897,
+  "lng": 12.629148,
+  "max_elevation": 22.0,
+  "frames_total": 0,
+  "counts": {},
+  "bytes": {},
+  "beacons": []
+ },
+ {
+  "id": 15094696,
+  "start": "2026-10-01T04:42:43Z",
+  "end": "2026-10-01T04:48:10Z",
+  "station": "Jim UHF",
+  "lat": 33.797628,
+  "lng": -79.159123,
+  "max_elevation": 58.0,
+  "frames_total": 5,
+  "counts": {
+   "payload": 5
+  },
+  "bytes": {
+   "payload": 408
+  },
+  "beacons": []
+ },
+ {
+  "id": 15093754,
+  "start": "2026-10-01T04:48:39Z",
+  "end": "2026-10-01T04:54:15Z",
+  "station": "JF6FYI Nishikazu, KitaKyushu, 3-ele Yagi(UHF)",
+  "lat": 33.895,
+  "lng": 130.84,
+  "max_elevation": 17.0,
+  "frames_total": 4,
+  "counts": {
+   "payload": 4
+  },
+  "bytes": {
+   "payload": 296
+  },
+  "beacons": []
+ },
+ {
+  "id": 15087805,
+  "start": "2026-10-01T04:49:24Z",
+  "end": "2026-10-01T04:57:47Z",
+  "station": "ZR6DM @ Heidelberg - UHF",
+  "lat": -26.518,
+  "lng": 28.296,
+  "max_elevation": 72.0,
+  "frames_total": 74,
+  "counts": {
+   "payload": 50
+  },
+  "bytes": {
+   "payload": 12336
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095455,
+  "start": "2026-10-01T04:49:32Z",
+  "end": "2026-10-01T04:59:52Z",
+  "station": "NKUA EVRIPOS - UHF",
+  "lat": 38.570309,
+  "lng": 23.648147,
+  "max_elevation": 49.0,
+  "frames_total": 1,
+  "counts": {
+   "payload": 1
+  },
+  "bytes": {
+   "payload": 222
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095119,
+  "start": "2026-10-01T04:55:50Z",
+  "end": "2026-10-01T05:02:11Z",
+  "station": "PE0SAT-21",
+  "lat": 51.721268,
+  "lng": 5.029968,
+  "max_elevation": 43.0,
+  "frames_total": 1,
+  "counts": {
+   "payload": 1
+  },
+  "bytes": {
+   "payload": 76
+  },
+  "beacons": []
+ },
+ {
+  "id": 15084117,
+  "start": "2026-10-01T04:57:20Z",
+  "end": "2026-10-01T05:08:19Z",
+  "station": "VU2JEK_Nitin",
+  "lat": 13.1458,
+  "lng": 77.5417,
+  "max_elevation": 37.0,
+  "frames_total": 12,
+  "counts": {
+   "payload": 12
+  },
+  "bytes": {
+   "payload": 1208
+  },
+  "beacons": []
+ },
+ {
+  "id": 15094697,
+  "start": "2026-10-01T04:57:52Z",
+  "end": "2026-10-01T05:02:34Z",
+  "station": "Jim UHF",
+  "lat": 33.797628,
+  "lng": -79.159123,
+  "max_elevation": 37.0,
+  "frames_total": 5,
+  "counts": {
+   "payload": 5
+  },
+  "bytes": {
+   "payload": 323
+  },
+  "beacons": []
+ },
+ {
+  "id": 15085681,
+  "start": "2026-10-01T04:57:59Z",
+  "end": "2026-10-01T05:10:39Z",
+  "station": "MAUSyagi",
+  "lat": 40.009,
+  "lng": -105.249,
+  "max_elevation": 78.0,
+  "frames_total": 39,
+  "counts": {
+   "payload": 39
+  },
+  "bytes": {
+   "payload": 2673
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095488,
+  "start": "2026-10-01T04:59:59Z",
+  "end": "2026-10-01T05:08:09Z",
+  "station": "IU0JIW",
+  "lat": 41.498897,
+  "lng": 12.629148,
+  "max_elevation": 90.0,
+  "frames_total": 0,
+  "counts": {},
+  "bytes": {},
+  "beacons": []
+ },
+ {
+  "id": 15095407,
+  "start": "2026-10-01T05:01:03Z",
+  "end": "2026-10-01T05:04:21Z",
+  "station": "MEGANISI_1",
+  "lat": 38.65,
+  "lng": 20.739,
+  "max_elevation": 49.0,
+  "frames_total": 4,
+  "counts": {
+   "payload": 4
+  },
+  "bytes": {
+   "payload": 420
+  },
+  "beacons": []
+ },
+ {
+  "id": 15085612,
+  "start": "2026-10-01T05:02:08Z",
+  "end": "2026-10-01T05:14:45Z",
+  "station": "VA6RPI UHF Alberta Canada.",
+  "lat": 54.892,
+  "lng": -112.298,
+  "max_elevation": 71.0,
+  "frames_total": 1,
+  "counts": {
+   "payload": 1
+  },
+  "bytes": {
+   "payload": 41
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095457,
+  "start": "2026-10-01T05:11:04Z",
+  "end": "2026-10-01T05:15:23Z",
+  "station": "NKUA EVRIPOS - UHF",
+  "lat": 38.570309,
+  "lng": 23.648147,
+  "max_elevation": 21.0,
+  "frames_total": 3,
+  "counts": {
+   "payload": 3
+  },
+  "bytes": {
+   "payload": 315
+  },
+  "beacons": []
+ },
+ {
+  "id": 15092085,
+  "start": "2026-10-01T05:12:32Z",
+  "end": "2026-10-01T05:23:21Z",
+  "station": "EuroSpaceHub-UCM",
+  "lat": 39.569,
+  "lng": -3.186,
+  "max_elevation": 59.0,
+  "frames_total": 26,
+  "counts": {
+   "payload": 26
+  },
+  "bytes": {
+   "payload": 2118
+  },
+  "beacons": []
+ },
+ {
+  "id": 15092289,
+  "start": "2026-10-01T05:16:34Z",
+  "end": "2026-10-01T05:21:34Z",
+  "station": "M0EYT",
+  "lat": 50.77,
+  "lng": -2.02,
+  "max_elevation": 20.0,
+  "frames_total": 1,
+  "counts": {
+   "payload": 1
+  },
+  "bytes": {
+   "payload": 9
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095490,
+  "start": "2026-10-01T05:17:58Z",
+  "end": "2026-10-01T05:24:28Z",
+  "station": "IU0JIW",
+  "lat": 41.498897,
+  "lng": 12.629148,
+  "max_elevation": 48.0,
+  "frames_total": 0,
+  "counts": {},
+  "bytes": {},
+  "beacons": []
+ },
+ {
+  "id": 15095126,
+  "start": "2026-10-01T05:18:42Z",
+  "end": "2026-10-01T05:21:42Z",
+  "station": "PE0SAT-31",
+  "lat": 51.721268,
+  "lng": 5.029,
+  "max_elevation": 21.0,
+  "frames_total": 9,
+  "counts": {
+   "payload": 9
+  },
+  "bytes": {
+   "payload": 274
+  },
+  "beacons": []
+ },
+ {
+  "id": 15094185,
+  "start": "2026-10-01T05:19:04Z",
+  "end": "2026-10-01T05:25:21Z",
+  "station": "SOBE01",
+  "lat": 49.249358,
+  "lng": 16.616025,
+  "max_elevation": 38.0,
+  "frames_total": 0,
+  "counts": {},
+  "bytes": {},
+  "beacons": []
+ },
+ {
+  "id": 15086172,
+  "start": "2026-10-01T05:19:19Z",
+  "end": "2026-10-01T05:25:30Z",
+  "station": "329CZ144",
+  "lat": 49.843131,
+  "lng": 18.164306,
+  "max_elevation": 35.0,
+  "frames_total": 0,
+  "counts": {},
+  "bytes": {},
+  "beacons": []
+ },
+ {
+  "id": 15095529,
+  "start": "2026-10-01T05:19:34Z",
+  "end": "2026-10-01T05:27:22Z",
+  "station": "NKUA EVRIPOS - UHF",
+  "lat": 38.570309,
+  "lng": 23.648147,
+  "max_elevation": 26.0,
+  "frames_total": 0,
+  "counts": {},
+  "bytes": {},
+  "beacons": []
+ },
+ {
+  "id": 15094323,
+  "start": "2026-10-01T05:19:57Z",
+  "end": "2026-10-01T05:25:15Z",
+  "station": "Peters-GS1",
+  "lat": 37.370276,
+  "lng": 126.872024,
+  "max_elevation": 51.0,
+  "frames_total": 89,
+  "counts": {
+   "payload": 50
+  },
+  "bytes": {
+   "payload": 3707
+  },
+  "beacons": []
+ },
+ {
+  "id": 15083581,
+  "start": "2026-10-01T05:19:57Z",
+  "end": "2026-10-01T05:24:50Z",
+  "station": "Groundstation OM4ATC",
+  "lat": 49.1998,
+  "lng": 18.12,
+  "max_elevation": 39.0,
+  "frames_total": 18,
+  "counts": {
+   "payload": 18
+  },
+  "bytes": {
+   "payload": 1925
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095505,
+  "start": "2026-10-01T05:20:23Z",
+  "end": "2026-10-01T05:27:01Z",
+  "station": "Sofia SAT Club - Bay Ivan",
+  "lat": 42.99996628871616,
+  "lng": 24.930953710839745,
+  "max_elevation": 59.0,
+  "frames_total": 4,
+  "counts": {
+   "payload": 4
+  },
+  "bytes": {
+   "payload": 295
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095121,
+  "start": "2026-10-01T05:20:51Z",
+  "end": "2026-10-01T05:25:02Z",
+  "station": "PE0SAT-21",
+  "lat": 51.721268,
+  "lng": 5.029968,
+  "max_elevation": 64.0,
+  "frames_total": 6,
+  "counts": {
+   "payload": 6
+  },
+  "bytes": {
+   "payload": 264
+  },
+  "beacons": []
+ },
+ {
+  "id": 15083776,
+  "start": "2026-10-01T05:27:56Z",
+  "end": "2026-10-01T05:38:04Z",
+  "station": "EuroSpaceHub-UCM",
+  "lat": 39.569,
+  "lng": -3.186,
+  "max_elevation": 16.0,
+  "frames_total": 0,
+  "counts": {},
+  "bytes": {},
+  "beacons": []
+ },
+ {
+  "id": 15095497,
+  "start": "2026-10-01T05:28:38Z",
+  "end": "2026-10-01T05:39:53Z",
+  "station": "EA4TA",
+  "lat": 40.44,
+  "lng": -3.8,
+  "max_elevation": 32.0,
+  "frames_total": 4,
+  "counts": {
+   "payload": 4
+  },
+  "bytes": {
+   "payload": 826
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095553,
+  "start": "2026-10-01T05:29:23Z",
+  "end": "2026-10-01T05:37:21Z",
+  "station": "RayaanVK6ADX",
+  "lat": -32.1543,
+  "lng": 115.9773,
+  "max_elevation": 44.0,
+  "frames_total": 0,
+  "counts": {},
+  "bytes": {},
+  "beacons": []
+ },
+ {
+  "id": 15088531,
+  "start": "2026-10-01T05:29:58Z",
+  "end": "2026-10-01T05:37:51Z",
+  "station": "SS",
+  "lat": 7.27601582940281,
+  "lng": 80.7251167196346,
+  "max_elevation": 39.0,
+  "frames_total": 73,
+  "counts": {
+   "payload": 50
+  },
+  "bytes": {
+   "payload": 3827
+  },
+  "beacons": []
+ },
+ {
+  "id": 15084101,
+  "start": "2026-10-01T05:30:26Z",
+  "end": "2026-10-01T05:41:31Z",
+  "station": "MAUSyagi",
+  "lat": 40.009,
+  "lng": -105.248,
+  "max_elevation": 33.0,
+  "frames_total": 23,
+  "counts": {
+   "payload": 23
+  },
+  "bytes": {
+   "payload": 2794
+  },
+  "beacons": []
+ },
+ {
+  "id": 15084131,
+  "start": "2026-10-01T05:30:34Z",
+  "end": "2026-10-01T05:37:52Z",
+  "station": "N0NQD-SatScanner UHF",
+  "lat": 45.289,
+  "lng": -93.747,
+  "max_elevation": 72.0,
+  "frames_total": 4,
+  "counts": {
+   "payload": 4
+  },
+  "bytes": {
+   "payload": 362
+  },
+  "beacons": []
+ },
+ {
+  "id": 15084099,
+  "start": "2026-10-01T05:33:44Z",
+  "end": "2026-10-01T05:39:08Z",
+  "station": "KU4YJ",
+  "lat": 34.71426,
+  "lng": -86.75529,
+  "max_elevation": 20.0,
+  "frames_total": 14,
+  "counts": {
+   "payload": 14
+  },
+  "bytes": {
+   "payload": 1308
+  },
+  "beacons": []
+ },
+ {
+  "id": 15084093,
+  "start": "2026-10-01T05:33:47Z",
+  "end": "2026-10-01T05:37:37Z",
+  "station": "Not Quite ESL",
+  "lat": 38.58,
+  "lng": -90.0,
+  "max_elevation": 34.0,
+  "frames_total": 2,
+  "counts": {
+   "payload": 2
+  },
+  "bytes": {
+   "payload": 252
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095459,
+  "start": "2026-10-01T05:34:27Z",
+  "end": "2026-10-01T05:41:57Z",
+  "station": "PE0SAT-21",
+  "lat": 51.721268,
+  "lng": 5.029968,
+  "max_elevation": 70.0,
+  "frames_total": 15,
+  "counts": {
+   "payload": 15
+  },
+  "bytes": {
+   "payload": 355
+  },
+  "beacons": []
+ },
+ {
+  "id": 15093712,
+  "start": "2026-10-01T05:34:44Z",
+  "end": "2026-10-01T05:42:16Z",
+  "station": "DEX-ONE",
+  "lat": 50.469,
+  "lng": 5.718,
+  "max_elevation": 76.0,
+  "frames_total": 3,
+  "counts": {
+   "payload": 3
+  },
+  "bytes": {
+   "payload": 57
+  },
+  "beacons": []
+ },
+ {
+  "id": 15084085,
+  "start": "2026-10-01T05:36:17Z",
+  "end": "2026-10-01T05:39:32Z",
+  "station": "KD5QZG - VHF/UHF",
+  "lat": 30.179,
+  "lng": -92.054,
+  "max_elevation": 30.0,
+  "frames_total": 1,
+  "counts": {
+   "payload": 1
+  },
+  "bytes": {
+   "payload": 50
+  },
+  "beacons": []
+ },
+ {
+  "id": 15093721,
+  "start": "2026-10-01T05:36:33Z",
+  "end": "2026-10-01T05:42:14Z",
+  "station": "JF6FYI Nishikazu, KitaKyushu, QFH (UHF)",
+  "lat": 33.895,
+  "lng": 130.84,
+  "max_elevation": 86.0,
+  "frames_total": 260,
+  "counts": {
+   "payload": 50
+  },
+  "bytes": {
+   "payload": 3703
+  },
+  "beacons": []
+ },
+ {
+  "id": 15083672,
+  "start": "2026-10-01T05:37:07Z",
+  "end": "2026-10-01T05:47:54Z",
+  "station": "yellowstone_yagi",
+  "lat": 45.776,
+  "lng": -111.177,
+  "max_elevation": 29.0,
+  "frames_total": 24,
+  "counts": {
+   "payload": 24
+  },
+  "bytes": {
+   "payload": 3336
+  },
+  "beacons": []
+ },
+ {
+  "id": 15087156,
+  "start": "2026-10-01T05:37:27Z",
+  "end": "2026-10-01T05:50:01Z",
+  "station": "BEEGND-1",
+  "lat": 52.073657,
+  "lng": 12.462608,
+  "max_elevation": 48.0,
+  "frames_total": 1,
+  "counts": {
+   "payload": 1
+  },
+  "bytes": {
+   "payload": 17
+  },
+  "beacons": []
+ },
+ {
+  "id": 15087788,
+  "start": "2026-10-01T05:38:47Z",
+  "end": "2026-10-01T05:47:51Z",
+  "station": "WH6GVF UHF",
+  "lat": 19.415,
+  "lng": -154.892,
+  "max_elevation": 62.0,
+  "frames_total": 83,
+  "counts": {
+   "payload": 50
+  },
+  "bytes": {
+   "payload": 12480
+  },
+  "beacons": []
+ },
+ {
+  "id": 15087829,
+  "start": "2026-10-01T05:38:50Z",
+  "end": "2026-10-01T05:46:06Z",
+  "station": "KH6DAD-UHF EggNOG",
+  "lat": 21.357,
+  "lng": -158.035,
+  "max_elevation": 84.0,
+  "frames_total": 7,
+  "counts": {
+   "payload": 7
+  },
+  "bytes": {
+   "payload": 1776
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095477,
+  "start": "2026-10-01T05:39:19Z",
+  "end": "2026-10-01T05:42:19Z",
+  "station": "PE0SAT-12",
+  "lat": 51.721268,
+  "lng": 5.029968,
+  "max_elevation": 71.0,
+  "frames_total": 6,
+  "counts": {
+   "payload": 6
+  },
+  "bytes": {
+   "payload": 630
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095531,
+  "start": "2026-10-01T05:40:20Z",
+  "end": "2026-10-01T05:50:31Z",
+  "station": "NKUA EVRIPOS - UHF",
+  "lat": 38.570309,
+  "lng": 23.648147,
+  "max_elevation": 26.0,
+  "frames_total": 11,
+  "counts": {
+   "payload": 11
+  },
+  "bytes": {
+   "payload": 1155
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095469,
+  "start": "2026-10-01T05:44:18Z",
+  "end": "2026-10-01T05:47:18Z",
+  "station": "PE0SAT-31",
+  "lat": 51.721268,
+  "lng": 5.029,
+  "max_elevation": 63.0,
+  "frames_total": 2,
+  "counts": {
+   "payload": 2
+  },
+  "bytes": {
+   "payload": 210
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095478,
+  "start": "2026-10-01T05:44:50Z",
+  "end": "2026-10-01T05:47:50Z",
+  "station": "PE0SAT-12",
+  "lat": 51.721268,
+  "lng": 5.029968,
+  "max_elevation": 63.0,
+  "frames_total": 6,
+  "counts": {
+   "payload": 6
+  },
+  "bytes": {
+   "payload": 630
+  },
+  "beacons": []
+ },
+ {
+  "id": 15092094,
+  "start": "2026-10-01T05:48:34Z",
+  "end": "2026-10-01T05:59:02Z",
+  "station": "EuroSpaceHub-UCM",
+  "lat": 39.569,
+  "lng": -3.186,
+  "max_elevation": 34.0,
+  "frames_total": 1,
+  "counts": {
+   "U": 1
+  },
+  "bytes": {
+   "U": 86
+  },
+  "beacons": [
+   {
+    "t": "2026-10-01T05-54-06",
+    "kind": "U",
+    "fields": {
+     "uhf_uptime": 21083933,
+     "uhf_uptime_tot": 56046048,
+     "uhf_reset_cnt": 18,
+     "uhf_rf_reset_cnt": 0,
+     "uhf_trx_temp": 155,
+     "uhf_rf_temp": 198,
+     "uhf_pa_temp": -100,
+     "uhf_digipeater_cnt": 728,
+     "uhf_last_digipeater": "DL7NDR",
+     "uhf_rx_cnt": 31565,
+     "uhf_tx_cnt": 3237499,
+     "uhf_act_rssi_raw": 92,
+     "uhf_dcd_rssi_raw": 120,
+     "uhf_beacon_raw": "U,21083933,56046048,18,0,155,198,-100,728,DL7NDR,31565,3237499,92,120"
+    }
+   }
+  ]
+ },
+ {
+  "id": 15091821,
+  "start": "2026-10-01T05:50:28Z",
+  "end": "2026-10-01T05:57:01Z",
+  "station": "DIYSATELLITE",
+  "lat": -34.747,
+  "lng": -58.333,
+  "max_elevation": 39.0,
+  "frames_total": 40,
+  "counts": {
+   "payload": 40
+  },
+  "bytes": {
+   "payload": 2968
+  },
+  "beacons": []
+ },
+ {
+  "id": 15092621,
+  "start": "2026-10-01T05:51:50Z",
+  "end": "2026-10-01T06:03:03Z",
+  "station": "MAUSyagi",
+  "lat": 40.009,
+  "lng": -105.248,
+  "max_elevation": 62.0,
+  "frames_total": 27,
+  "counts": {
+   "payload": 27
+  },
+  "bytes": {
+   "payload": 1906
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095479,
+  "start": "2026-10-01T05:52:13Z",
+  "end": "2026-10-01T05:55:13Z",
+  "station": "PE0SAT-12",
+  "lat": 51.721268,
+  "lng": 5.029968,
+  "max_elevation": 53.0,
+  "frames_total": 4,
+  "counts": {
+   "payload": 4
+  },
+  "bytes": {
+   "payload": 420
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095585,
+  "start": "2026-10-01T05:52:58Z",
+  "end": "2026-10-01T05:58:56Z",
+  "station": "RayaanVK6ADX",
+  "lat": -32.1543,
+  "lng": 115.9773,
+  "max_elevation": 26.0,
+  "frames_total": 0,
+  "counts": {},
+  "bytes": {},
+  "beacons": []
+ },
+ {
+  "id": 15083813,
+  "start": "2026-10-01T05:53:00Z",
+  "end": "2026-10-01T06:03:30Z",
+  "station": "Piszkesteto UHF",
+  "lat": 47.917,
+  "lng": 19.895,
+  "max_elevation": 45.0,
+  "frames_total": 15,
+  "counts": {
+   "U": 9,
+   "message": 3,
+   "other": 3
+  },
+  "bytes": {
+   "U": 768,
+   "message": 420,
+   "other": 74
+  },
+  "beacons": [
+   {
+    "t": "2026-10-01T05-54-06",
+    "kind": "U",
+    "fields": {
+     "uhf_uptime": 21083933,
+     "uhf_uptime_tot": 56046048,
+     "uhf_reset_cnt": 18,
+     "uhf_rf_reset_cnt": 0,
+     "uhf_trx_temp": 155,
+     "uhf_rf_temp": 198,
+     "uhf_pa_temp": -100,
+     "uhf_digipeater_cnt": 728,
+     "uhf_last_digipeater": "DL7NDR",
+     "uhf_rx_cnt": 31565,
+     "uhf_tx_cnt": 3237499,
+     "uhf_act_rssi_raw": 92,
+     "uhf_dcd_rssi_raw": 120,
+     "uhf_beacon_raw": "U,21083933,56046048,18,0,155,198,-100,728,DL7NDR,31565,3237499,92,120"
+    }
+   },
+   {
+    "t": "2026-10-01T05-55-36",
+    "kind": "U",
+    "fields": {
+     "uhf_uptime": 21084023,
+     "uhf_uptime_tot": 56046138,
+     "uhf_reset_cnt": 18,
+     "uhf_rf_reset_cnt": 0,
+     "uhf_trx_temp": 110,
+     "uhf_rf_temp": 133,
+     "uhf_pa_temp": -131,
+     "uhf_digipeater_cnt": 728,
+     "uhf_last_digipeater": "DL7NDR",
+     "uhf_rx_cnt": 31565,
+     "uhf_tx_cnt": 3237500,
+     "uhf_act_rssi_raw": 90,
+     "uhf_dcd_rssi_raw": 105,
+     "uhf_beacon_raw": "U,21084023,56046138,18,0,110,133,-131,728,DL7NDR,31565,3237500,90,105"
+    }
+   },
+   {
+    "t": "2026-10-01T05-55-56",
+    "kind": "message",
+    "fields": {
+     "message": "Young voice from Mladost Zagreb. Our hope: a future where kindness shines brighter than stars and peace connects all people."
+    }
+   },
+   {
+    "t": "2026-10-01T05-57-06",
+    "kind": "U",
+    "fields": {
+     "uhf_uptime": 21084113,
+     "uhf_uptime_tot": 56046228,
+     "uhf_reset_cnt": 18,
+     "uhf_rf_reset_cnt": 0,
+     "uhf_trx_temp": 99,
+     "uhf_rf_temp": 133,
+     "uhf_pa_temp": -118,
+     "uhf_digipeater_cnt": 730,
+     "uhf_last_digipeater": "DL7NDR",
+     "uhf_rx_cnt": 31567,
+     "uhf_tx_cnt": 3237504,
+     "uhf_act_rssi_raw": 91,
+     "uhf_dcd_rssi_raw": 111,
+     "uhf_beacon_raw": "U,21084113,56046228,18,0,99,133,-118,730,DL7NDR,31567,3237504,91,111"
+    }
+   },
+   {
+    "t": "2026-10-01T05-57-04",
+    "kind": "other",
+    "fields": {
+     "digi_src_ssid": 0,
+     "digi_dest_ssid": 0,
+     "rpt_instance_0_ssid": 0,
+     "rpt_instance_0_hbit": 1,
+     "digi_ctl": 3,
+     "digi_pid": 240,
+     "digi_message": "Cq"
+    }
+   },
+   {
+    "t": "2026-10-01T05-58-36",
+    "kind": "U",
+    "fields": {
+     "uhf_uptime": 21084203,
+     "uhf_uptime_tot": 56046318,
+     "uhf_reset_cnt": 18,
+     "uhf_rf_reset_cnt": 0,
+     "uhf_trx_temp": 87,
+     "uhf_rf_temp": 155,
+     "uhf_pa_temp": -137,
+     "uhf_digipeater_cnt": 730,
+     "uhf_last_digipeater": "DL7NDR",
+     "uhf_rx_cnt": 31567,
+     "uhf_tx_cnt": 3237505,
+     "uhf_act_rssi_raw": 93,
+     "uhf_dcd_rssi_raw": 103,
+     "uhf_beacon_raw": "U,21084203,56046318,18,0,87,155,-137,730,DL7NDR,31567,3237505,93,103"
+    }
+   },
+   {
+    "t": "2026-10-01T06-00-26",
+    "kind": "message",
+    "fields": {
+     "message": "Young voice from Mladost Zagreb. Our hope: a future where kindness shines brighter than stars and peace connects all people."
+    }
+   },
+   {
+    "t": "2026-10-01T06-00-06",
+    "kind": "U",
+    "fields": {
+     "uhf_uptime": 21084293,
+     "uhf_uptime_tot": 56046408,
+     "uhf_reset_cnt": 18,
+     "uhf_rf_reset_cnt": 0,
+     "uhf_trx_temp": 87,
+     "uhf_rf_temp": 155,
+     "uhf_pa_temp": -125,
+     "uhf_digipeater_cnt": 730,
+     "uhf_last_digipeater": "DL7NDR",
+     "uhf_rx_cnt": 31567,
+     "uhf_tx_cnt": 3237506,
+     "uhf_act_rssi_raw": 90,
+     "uhf_dcd_rssi_raw": 103,
+     "uhf_beacon_raw": "U,21084293,56046408,18,0,87,155,-125,730,DL7NDR,31567,3237506,90,103"
+    }
+   },
+   {
+    "t": "2026-10-01T05-59-50",
+    "kind": "U",
+    "fields": {
+     "uhf_uptime": 21084293,
+     "uhf_uptime_tot": 56046408,
+     "uhf_reset_cnt": 18,
+     "uhf_rf_reset_cnt": 0,
+     "uhf_trx_temp": 87,
+     "uhf_rf_temp": 155,
+     "uhf_pa_temp": -125,
+     "uhf_digipeater_cnt": 730,
+     "uhf_last_digipeater": "DL7NDR",
+     "uhf_rx_cnt": 31567,
+     "uhf_tx_cnt": 3237506,
+     "uhf_act_rssi_raw": 90,
+     "uhf_dcd_rssi_raw": 103,
+     "uhf_beacon_raw": "U,21084293,56046408,18,0,87,155,-125,730,DL7NDR,31567,3237506,90,103"
+    }
+   },
+   {
+    "t": "2026-10-01T05-55-20",
+    "kind": "U",
+    "fields": {
+     "uhf_uptime": 21084023,
+     "uhf_uptime_tot": 56046138,
+     "uhf_reset_cnt": 18,
+     "uhf_rf_reset_cnt": 0,
+     "uhf_trx_temp": 110,
+     "uhf_rf_temp": 133,
+     "uhf_pa_temp": -131,
+     "uhf_digipeater_cnt": 728,
+     "uhf_last_digipeater": "DL7NDR",
+     "uhf_rx_cnt": 31565,
+     "uhf_tx_cnt": 3237500,
+     "uhf_act_rssi_raw": 90,
+     "uhf_dcd_rssi_raw": 105,
+     "uhf_beacon_raw": "U,21084023,56046138,18,0,110,133,-131,728,DL7NDR,31565,3237500,90,105"
+    }
+   },
+   {
+    "t": "2026-10-01T06-00-10",
+    "kind": "message",
+    "fields": {
+     "message": "Young voice from Mladost Zagreb. Our hope: a future where kindness shines brighter than stars and peace connects all people."
+    }
+   },
+   {
+    "t": "2026-10-01T05-56-48",
+    "kind": "other",
+    "fields": {
+     "digi_src_ssid": 0,
+     "digi_dest_ssid": 0,
+     "rpt_instance_0_ssid": 0,
+     "rpt_instance_0_hbit": 1,
+     "digi_ctl": 3,
+     "digi_pid": 240,
+     "digi_message": "Cq"
+    }
+   },
+   {
+    "t": "2026-10-01T05-56-50",
+    "kind": "U",
+    "fields": {
+     "uhf_uptime": 21084113,
+     "uhf_uptime_tot": 56046228,
+     "uhf_reset_cnt": 18,
+     "uhf_rf_reset_cnt": 0,
+     "uhf_trx_temp": 99,
+     "uhf_rf_temp": 133,
+     "uhf_pa_temp": -118,
+     "uhf_digipeater_cnt": 730,
+     "uhf_last_digipeater": "DL7NDR",
+     "uhf_rx_cnt": 31567,
+     "uhf_tx_cnt": 3237504,
+     "uhf_act_rssi_raw": 91,
+     "uhf_dcd_rssi_raw": 111,
+     "uhf_beacon_raw": "U,21084113,56046228,18,0,99,133,-118,730,DL7NDR,31567,3237504,91,111"
+    }
+   },
+   {
+    "t": "2026-10-01T05-58-20",
+    "kind": "U",
+    "fields": {
+     "uhf_uptime": 21084203,
+     "uhf_uptime_tot": 56046318,
+     "uhf_reset_cnt": 18,
+     "uhf_rf_reset_cnt": 0,
+     "uhf_trx_temp": 87,
+     "uhf_rf_temp": 155,
+     "uhf_pa_temp": -137,
+     "uhf_digipeater_cnt": 730,
+     "uhf_last_digipeater": "DL7NDR",
+     "uhf_rx_cnt": 31567,
+     "uhf_tx_cnt": 3237505,
+     "uhf_act_rssi_raw": 93,
+     "uhf_dcd_rssi_raw": 103,
+     "uhf_beacon_raw": "U,21084203,56046318,18,0,87,155,-137,730,DL7NDR,31567,3237505,93,103"
+    }
+   },
+   {
+    "t": "2026-10-01T05-56-34",
+    "kind": "other",
+    "fields": {
+     "digi_src_ssid": 0,
+     "digi_dest_ssid": 0,
+     "rpt_instance_0_ssid": 0,
+     "rpt_instance_0_hbit": 1,
+     "digi_ctl": 3,
+     "digi_pid": 240,
+     "digi_message": "."
+    }
+   }
+  ]
+ },
+ {
+  "id": 15092629,
+  "start": "2026-10-01T05:55:16Z",
+  "end": "2026-10-01T06:03:36Z",
+  "station": "WA6RSV",
+  "lat": 34.14,
+  "lng": -117.87,
+  "max_elevation": 29.0,
+  "frames_total": 3,
+  "counts": {
+   "payload": 3
+  },
+  "bytes": {
+   "payload": 240
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095480,
+  "start": "2026-10-01T05:55:21Z",
+  "end": "2026-10-01T05:58:21Z",
+  "station": "PE0SAT-12",
+  "lat": 51.721268,
+  "lng": 5.029968,
+  "max_elevation": 49.0,
+  "frames_total": 20,
+  "counts": {
+   "payload": 20
+  },
+  "bytes": {
+   "payload": 1309
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095532,
+  "start": "2026-10-01T05:55:31Z",
+  "end": "2026-10-01T06:03:25Z",
+  "station": "NKUA EVRIPOS - UHF",
+  "lat": 38.570309,
+  "lng": 23.648147,
+  "max_elevation": 30.0,
+  "frames_total": 3,
+  "counts": {
+   "U": 2,
+   "payload": 1
+  },
+  "bytes": {
+   "U": 170,
+   "payload": 2
+  },
+  "beacons": [
+   {
+    "t": "2026-10-01T06-00-06",
+    "kind": "U",
+    "fields": {
+     "uhf_uptime": 21084293,
+     "uhf_uptime_tot": 56046408,
+     "uhf_reset_cnt": 18,
+     "uhf_rf_reset_cnt": 0,
+     "uhf_trx_temp": 87,
+     "uhf_rf_temp": 155,
+     "uhf_pa_temp": -125,
+     "uhf_digipeater_cnt": 730,
+     "uhf_last_digipeater": "DL7NDR",
+     "uhf_rx_cnt": 31567,
+     "uhf_tx_cnt": 3237506,
+     "uhf_act_rssi_raw": 90,
+     "uhf_dcd_rssi_raw": 103,
+     "uhf_beacon_raw": "U,21084293,56046408,18,0,87,155,-125,730,DL7NDR,31567,3237506,90,103"
+    }
+   },
+   {
+    "t": "2026-10-01T06-00-04",
+    "kind": "U",
+    "fields": {
+     "uhf_uptime": 21084293,
+     "uhf_uptime_tot": 56046408,
+     "uhf_reset_cnt": 18,
+     "uhf_rf_reset_cnt": 0,
+     "uhf_trx_temp": 87,
+     "uhf_rf_temp": 155,
+     "uhf_pa_temp": -125,
+     "uhf_digipeater_cnt": 730,
+     "uhf_last_digipeater": "DL7NDR",
+     "uhf_rx_cnt": 31567,
+     "uhf_tx_cnt": 3237506,
+     "uhf_act_rssi_raw": 90,
+     "uhf_dcd_rssi_raw": 103,
+     "uhf_beacon_raw": "U,21084293,56046408,18,0,87,155,-125,730,DL7NDR,31567,3237506,90,103"
+    }
+   }
+  ]
+ },
+ {
+  "id": 15094463,
+  "start": "2026-10-01T05:56:34Z",
+  "end": "2026-10-01T06:02:51Z",
+  "station": "rommac uhf qfh 2",
+  "lat": 32.2885,
+  "lng": -111.868,
+  "max_elevation": 71.0,
+  "frames_total": 36,
+  "counts": {
+   "payload": 36
+  },
+  "bytes": {
+   "payload": 2586
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095586,
+  "start": "2026-10-01T05:59:26Z",
+  "end": "2026-10-01T06:05:29Z",
+  "station": "RayaanVK6ADX",
+  "lat": -32.1543,
+  "lng": 115.9773,
+  "max_elevation": 42.0,
+  "frames_total": 0,
+  "counts": {},
+  "bytes": {},
+  "beacons": []
+ },
+ {
+  "id": 15088521,
+  "start": "2026-10-01T06:01:10Z",
+  "end": "2026-10-01T06:12:50Z",
+  "station": "Pelt-UHF-Fixed-Yagi",
+  "lat": 51.0425,
+  "lng": -114.099444,
+  "max_elevation": 32.0,
+  "frames_total": 2,
+  "counts": {
+   "payload": 2
+  },
+  "bytes": {
+   "payload": 114
+  },
+  "beacons": []
+ },
+ {
+  "id": 15088362,
+  "start": "2026-10-01T06:03:18Z",
+  "end": "2026-10-01T06:15:55Z",
+  "station": "MAUSyagi",
+  "lat": 40.009,
+  "lng": -105.248,
+  "max_elevation": 79.0,
+  "frames_total": 30,
+  "counts": {
+   "payload": 30
+  },
+  "bytes": {
+   "payload": 2284
+  },
+  "beacons": []
+ },
+ {
+  "id": 15093759,
+  "start": "2026-10-01T06:03:18Z",
+  "end": "2026-10-01T06:09:14Z",
+  "station": "JF6FYI Nishikazu, KitaKyushu, 3-ele Yagi(UHF)",
+  "lat": 33.895,
+  "lng": 130.84,
+  "max_elevation": 35.0,
+  "frames_total": 15,
+  "counts": {
+   "payload": 15
+  },
+  "bytes": {
+   "payload": 1563
+  },
+  "beacons": []
+ },
+ {
+  "id": 15093722,
+  "start": "2026-10-01T06:03:18Z",
+  "end": "2026-10-01T06:09:14Z",
+  "station": "JF6FYI Nishikazu, KitaKyushu, QFH (UHF)",
+  "lat": 33.895,
+  "lng": 130.84,
+  "max_elevation": 35.0,
+  "frames_total": 5,
+  "counts": {
+   "payload": 5
+  },
+  "bytes": {
+   "payload": 511
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095587,
+  "start": "2026-10-01T06:06:01Z",
+  "end": "2026-10-01T06:11:56Z",
+  "station": "RayaanVK6ADX",
+  "lat": -32.1543,
+  "lng": 115.9773,
+  "max_elevation": 37.0,
+  "frames_total": 2,
+  "counts": {
+   "payload": 2
+  },
+  "bytes": {
+   "payload": 148
+  },
+  "beacons": []
+ },
+ {
+  "id": 15088478,
+  "start": "2026-10-01T06:06:55Z",
+  "end": "2026-10-01T06:16:20Z",
+  "station": "WA6RSV",
+  "lat": 34.14,
+  "lng": -117.87,
+  "max_elevation": 29.0,
+  "frames_total": 1,
+  "counts": {
+   "payload": 1
+  },
+  "bytes": {
+   "payload": 80
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095645,
+  "start": "2026-10-01T06:07:51Z",
+  "end": "2026-10-01T06:15:24Z",
+  "station": "LW2DYB",
+  "lat": -38.28,
+  "lng": -57.854,
+  "max_elevation": 85.0,
+  "frames_total": 81,
+  "counts": {
+   "payload": 50
+  },
+  "bytes": {
+   "payload": 3717
+  },
+  "beacons": []
+ },
+ {
+  "id": 15093723,
+  "start": "2026-10-01T06:09:15Z",
+  "end": "2026-10-01T06:15:39Z",
+  "station": "JF6FYI Nishikazu, KitaKyushu, QFH (UHF)",
+  "lat": 33.895,
+  "lng": 130.84,
+  "max_elevation": 29.0,
+  "frames_total": 35,
+  "counts": {
+   "payload": 35
+  },
+  "bytes": {
+   "payload": 6180
+  },
+  "beacons": []
+ },
+ {
+  "id": 15093760,
+  "start": "2026-10-01T06:09:15Z",
+  "end": "2026-10-01T06:15:05Z",
+  "station": "JF6FYI Nishikazu, KitaKyushu, 3-ele Yagi(UHF)",
+  "lat": 33.895,
+  "lng": 130.84,
+  "max_elevation": 29.0,
+  "frames_total": 35,
+  "counts": {
+   "payload": 35
+  },
+  "bytes": {
+   "payload": 6680
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095533,
+  "start": "2026-10-01T06:09:54Z",
+  "end": "2026-10-01T06:15:29Z",
+  "station": "NKUA EVRIPOS - UHF",
+  "lat": 38.570309,
+  "lng": 23.648147,
+  "max_elevation": 24.0,
+  "frames_total": 1,
+  "counts": {
+   "payload": 1
+  },
+  "bytes": {
+   "payload": 64
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095682,
+  "start": "2026-10-01T06:10:03Z",
+  "end": "2026-10-01T06:19:21Z",
+  "station": "VU2JEK_Nitin",
+  "lat": 13.1458,
+  "lng": 77.5417,
+  "max_elevation": 53.0,
+  "frames_total": 2,
+  "counts": {
+   "U": 1,
+   "message": 1
+  },
+  "bytes": {
+   "U": 85,
+   "message": 140
+  },
+  "beacons": [
+   {
+    "t": "2026-10-01T06-13-36",
+    "kind": "U",
+    "fields": {
+     "uhf_uptime": 21085103,
+     "uhf_uptime_tot": 56047218,
+     "uhf_reset_cnt": 18,
+     "uhf_rf_reset_cnt": 0,
+     "uhf_trx_temp": 639,
+     "uhf_rf_temp": 769,
+     "uhf_pa_temp": 493,
+     "uhf_digipeater_cnt": 730,
+     "uhf_last_digipeater": "DL7NDR",
+     "uhf_rx_cnt": 31567,
+     "uhf_tx_cnt": 3237518,
+     "uhf_act_rssi_raw": 85,
+     "uhf_dcd_rssi_raw": 103,
+     "uhf_beacon_raw": "U,21085103,56047218,18,0,639,769,493,730,DL7NDR,31567,3237518,85,103"
+    }
+   },
+   {
+    "t": "2026-10-01T06-13-56",
+    "kind": "message",
+    "fields": {
+     "message": "Young voice from Mladost Zagreb. Our hope: a future where kindness shines brighter than stars and peace connects all people."
+    }
+   }
+  ]
+ },
+ {
+  "id": 15095588,
+  "start": "2026-10-01T06:10:09Z",
+  "end": "2026-10-01T06:13:11Z",
+  "station": "MEGANISI_1",
+  "lat": 38.65,
+  "lng": 20.739,
+  "max_elevation": 38.0,
+  "frames_total": 16,
+  "counts": {
+   "payload": 16
+  },
+  "bytes": {
+   "payload": 851
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095749,
+  "start": "2026-10-01T06:15:57Z",
+  "end": "2026-10-01T06:22:02Z",
+  "station": "RayaanVK6ADX",
+  "lat": -32.1543,
+  "lng": 115.9773,
+  "max_elevation": 31.0,
+  "frames_total": 0,
+  "counts": {},
+  "bytes": {},
+  "beacons": []
+ },
+ {
+  "id": 15094605,
+  "start": "2026-10-01T06:17:29Z",
+  "end": "2026-10-01T06:26:08Z",
+  "station": "JH4XSY-pi",
+  "lat": 36.0697,
+  "lng": 140.2072,
+  "max_elevation": 15.0,
+  "frames_total": 0,
+  "counts": {},
+  "bytes": {},
+  "beacons": []
+ },
+ {
+  "id": 15095589,
+  "start": "2026-10-01T06:19:24Z",
+  "end": "2026-10-01T06:23:14Z",
+  "station": "MEGANISI_1",
+  "lat": 38.65,
+  "lng": 20.739,
+  "max_elevation": 47.0,
+  "frames_total": 13,
+  "counts": {
+   "payload": 13
+  },
+  "bytes": {
+   "payload": 850
+  },
+  "beacons": []
+ },
+ {
+  "id": 15093762,
+  "start": "2026-10-01T06:28:11Z",
+  "end": "2026-10-01T06:38:26Z",
+  "station": "JF6FYI Nishikazu, KitaKyushu, 3-ele Yagi(UHF)",
+  "lat": 33.895,
+  "lng": 130.84,
+  "max_elevation": 17.0,
+  "frames_total": 15,
+  "counts": {
+   "payload": 15
+  },
+  "bytes": {
+   "payload": 3900
+  },
+  "beacons": []
+ },
+ {
+  "id": 15086209,
+  "start": "2026-10-01T06:28:51Z",
+  "end": "2026-10-01T06:35:22Z",
+  "station": "329CZ144",
+  "lat": 49.843131,
+  "lng": 18.164306,
+  "max_elevation": 40.0,
+  "frames_total": 0,
+  "counts": {},
+  "bytes": {},
+  "beacons": []
+ },
+ {
+  "id": 15095751,
+  "start": "2026-10-01T06:34:10Z",
+  "end": "2026-10-01T06:40:12Z",
+  "station": "RayaanVK6ADX",
+  "lat": -32.1543,
+  "lng": 115.9773,
+  "max_elevation": 23.0,
+  "frames_total": 0,
+  "counts": {},
+  "bytes": {},
+  "beacons": []
+ },
+ {
+  "id": 15094699,
+  "start": "2026-10-01T06:36:56Z",
+  "end": "2026-10-01T06:43:28Z",
+  "station": "JH4XSY-pi",
+  "lat": 36.0697,
+  "lng": 140.2072,
+  "max_elevation": 33.0,
+  "frames_total": 11,
+  "counts": {
+   "payload": 11
+  },
+  "bytes": {
+   "payload": 2816
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095581,
+  "start": "2026-10-01T06:41:58Z",
+  "end": "2026-10-01T06:47:48Z",
+  "station": "Sofia SAT Club - Bay Ivan",
+  "lat": 42.99996628871616,
+  "lng": 24.930953710839745,
+  "max_elevation": 36.0,
+  "frames_total": 3,
+  "counts": {
+   "payload": 3
+  },
+  "bytes": {
+   "payload": 342
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095708,
+  "start": "2026-10-01T06:42:15Z",
+  "end": "2026-10-01T06:49:50Z",
+  "station": "NKUA EVRIPOS - UHF",
+  "lat": 38.570309,
+  "lng": 23.648147,
+  "max_elevation": 34.0,
+  "frames_total": 25,
+  "counts": {
+   "payload": 25
+  },
+  "bytes": {
+   "payload": 2850
+  },
+  "beacons": []
+ },
+ {
+  "id": 15086498,
+  "start": "2026-10-01T06:44:45Z",
+  "end": "2026-10-01T06:51:36Z",
+  "station": "UX5UL",
+  "lat": 50.359,
+  "lng": 30.388,
+  "max_elevation": 15.0,
+  "frames_total": 116,
+  "counts": {
+   "payload": 50
+  },
+  "bytes": {
+   "payload": 7516
+  },
+  "beacons": []
+ },
+ {
+  "id": 15092086,
+  "start": "2026-10-01T06:50:07Z",
+  "end": "2026-10-01T07:00:39Z",
+  "station": "EuroSpaceHub-UCM",
+  "lat": 39.569,
+  "lng": -3.186,
+  "max_elevation": 30.0,
+  "frames_total": 15,
+  "counts": {
+   "payload": 15
+  },
+  "bytes": {
+   "payload": 914
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095540,
+  "start": "2026-10-01T06:51:50Z",
+  "end": "2026-10-01T06:56:12Z",
+  "station": "PE0SAT-21",
+  "lat": 51.721268,
+  "lng": 5.029968,
+  "max_elevation": 73.0,
+  "frames_total": 20,
+  "counts": {
+   "payload": 20
+  },
+  "bytes": {
+   "payload": 2369
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095549,
+  "start": "2026-10-01T06:55:29Z",
+  "end": "2026-10-01T06:58:29Z",
+  "station": "PE0SAT-31",
+  "lat": 51.721268,
+  "lng": 5.029,
+  "max_elevation": 25.0,
+  "frames_total": 5,
+  "counts": {
+   "payload": 5
+  },
+  "bytes": {
+   "payload": 361
+  },
+  "beacons": []
+ },
+ {
+  "id": 15094188,
+  "start": "2026-10-01T06:55:55Z",
+  "end": "2026-10-01T07:01:56Z",
+  "station": "SOBE01",
+  "lat": 49.249358,
+  "lng": 16.616025,
+  "max_elevation": 31.0,
+  "frames_total": 0,
+  "counts": {},
+  "bytes": {},
+  "beacons": []
+ },
+ {
+  "id": 15083928,
+  "start": "2026-10-01T06:56:54Z",
+  "end": "2026-10-01T07:01:19Z",
+  "station": "Groundstation OM4ATC",
+  "lat": 49.1998,
+  "lng": 18.12,
+  "max_elevation": 30.0,
+  "frames_total": 1,
+  "counts": {
+   "payload": 1
+  },
+  "bytes": {
+   "payload": 74
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095583,
+  "start": "2026-10-01T06:57:32Z",
+  "end": "2026-10-01T07:04:13Z",
+  "station": "Sofia SAT Club - Bay Ivan",
+  "lat": 42.99996628871616,
+  "lng": 24.930953710839745,
+  "max_elevation": 72.0,
+  "frames_total": 6,
+  "counts": {
+   "payload": 6
+  },
+  "bytes": {
+   "payload": 388
+  },
+  "beacons": []
+ },
+ {
+  "id": 15089446,
+  "start": "2026-10-01T06:58:21Z",
+  "end": "2026-10-01T07:03:47Z",
+  "station": "HS-MarsOnEarthProject-1",
+  "lat": 39.844,
+  "lng": 32.779,
+  "max_elevation": 32.0,
+  "frames_total": 2,
+  "counts": {
+   "payload": 2
+  },
+  "bytes": {
+   "payload": 330
+  },
+  "beacons": []
+ },
+ {
+  "id": 15088397,
+  "start": "2026-10-01T06:59:02Z",
+  "end": "2026-10-01T07:07:31Z",
+  "station": "ffzero",
+  "lat": -20.95,
+  "lng": 55.33061,
+  "max_elevation": 77.0,
+  "frames_total": 2,
+  "counts": {
+   "payload": 2
+  },
+  "bytes": {
+   "payload": 160
+  },
+  "beacons": []
+ },
+ {
+  "id": 15093764,
+  "start": "2026-10-01T07:00:32Z",
+  "end": "2026-10-01T07:12:25Z",
+  "station": "JF6FYI Nishikazu, KitaKyushu, 3-ele Yagi(UHF)",
+  "lat": 33.895,
+  "lng": 130.84,
+  "max_elevation": 81.0,
+  "frames_total": 5,
+  "counts": {
+   "payload": 5
+  },
+  "bytes": {
+   "payload": 665
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095541,
+  "start": "2026-10-01T07:01:34Z",
+  "end": "2026-10-01T07:07:53Z",
+  "station": "PE0SAT-21",
+  "lat": 51.721268,
+  "lng": 5.029968,
+  "max_elevation": 26.0,
+  "frames_total": 2,
+  "counts": {
+   "payload": 2
+  },
+  "bytes": {
+   "payload": 44
+  },
+  "beacons": []
+ },
+ {
+  "id": 15086590,
+  "start": "2026-10-01T07:01:46Z",
+  "end": "2026-10-01T07:12:41Z",
+  "station": "Pelt-UHF-Fixed-Yagi",
+  "lat": 51.0425,
+  "lng": -114.099444,
+  "max_elevation": 65.0,
+  "frames_total": 6,
+  "counts": {
+   "payload": 6
+  },
+  "bytes": {
+   "payload": 486
+  },
+  "beacons": []
+ },
+ {
+  "id": 15092893,
+  "start": "2026-10-01T07:03:17Z",
+  "end": "2026-10-01T07:08:13Z",
+  "station": "Peters-GS1",
+  "lat": 37.370276,
+  "lng": 126.872024,
+  "max_elevation": 54.0,
+  "frames_total": 1,
+  "counts": {
+   "payload": 1
+  },
+  "bytes": {
+   "payload": 133
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095709,
+  "start": "2026-10-01T07:03:43Z",
+  "end": "2026-10-01T07:10:33Z",
+  "station": "NKUA EVRIPOS - UHF",
+  "lat": 38.570309,
+  "lng": 23.648147,
+  "max_elevation": 28.0,
+  "frames_total": 76,
+  "counts": {
+   "payload": 50
+  },
+  "bytes": {
+   "payload": 5498
+  },
+  "beacons": []
+ },
+ {
+  "id": 15092633,
+  "start": "2026-10-01T07:06:50Z",
+  "end": "2026-10-01T07:15:22Z",
+  "station": "YL3CT",
+  "lat": 56.857,
+  "lng": 24.709,
+  "max_elevation": 33.0,
+  "frames_total": 32,
+  "counts": {
+   "payload": 32
+  },
+  "bytes": {
+   "payload": 2269
+  },
+  "beacons": []
+ },
+ {
+  "id": 15086517,
+  "start": "2026-10-01T07:07:11Z",
+  "end": "2026-10-01T07:16:06Z",
+  "station": "WA6RSV",
+  "lat": 34.14,
+  "lng": -117.87,
+  "max_elevation": 47.0,
+  "frames_total": 11,
+  "counts": {
+   "payload": 11
+  },
+  "bytes": {
+   "payload": 1383
+  },
+  "beacons": []
+ },
+ {
+  "id": 15092635,
+  "start": "2026-10-01T07:07:48Z",
+  "end": "2026-10-01T07:14:24Z",
+  "station": "YL3CT-2",
+  "lat": 56.857,
+  "lng": 24.709,
+  "max_elevation": 33.0,
+  "frames_total": 39,
+  "counts": {
+   "payload": 39
+  },
+  "bytes": {
+   "payload": 2733
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095034,
+  "start": "2026-10-01T07:07:59Z",
+  "end": "2026-10-01T07:14:12Z",
+  "station": "JH4XSY-pi",
+  "lat": 36.0697,
+  "lng": 140.2072,
+  "max_elevation": 24.0,
+  "frames_total": 1,
+  "counts": {
+   "payload": 1
+  },
+  "bytes": {
+   "payload": 24
+  },
+  "beacons": []
+ },
+ {
+  "id": 15092631,
+  "start": "2026-10-01T07:09:32Z",
+  "end": "2026-10-01T07:16:24Z",
+  "station": "SA2KNG Omni UHF/VHF",
+  "lat": 63.854,
+  "lng": 20.208,
+  "max_elevation": 40.0,
+  "frames_total": 31,
+  "counts": {
+   "payload": 31
+  },
+  "bytes": {
+   "payload": 2189
+  },
+  "beacons": []
+ },
+ {
+  "id": 15093727,
+  "start": "2026-10-01T07:12:26Z",
+  "end": "2026-10-01T07:15:58Z",
+  "station": "JF6FYI Nishikazu, KitaKyushu, QFH (UHF)",
+  "lat": 33.895,
+  "lng": 130.84,
+  "max_elevation": 64.0,
+  "frames_total": 1,
+  "counts": {
+   "payload": 1
+  },
+  "bytes": {
+   "payload": 24
+  },
+  "beacons": []
+ },
+ {
+  "id": 15088544,
+  "start": "2026-10-01T07:16:34Z",
+  "end": "2026-10-01T07:23:57Z",
+  "station": "HS-MarsOnEarthProject-1",
+  "lat": 39.844,
+  "lng": 32.779,
+  "max_elevation": 30.0,
+  "frames_total": 11,
+  "counts": {
+   "payload": 11
+  },
+  "bytes": {
+   "payload": 825
+  },
+  "beacons": []
+ },
+ {
+  "id": 15088516,
+  "start": "2026-10-01T07:17:30Z",
+  "end": "2026-10-01T07:25:45Z",
+  "station": "YO4ESB_Groundstation",
+  "lat": 44.202,
+  "lng": 28.624,
+  "max_elevation": 26.0,
+  "frames_total": 5,
+  "counts": {
+   "payload": 5
+  },
+  "bytes": {
+   "payload": 398
+  },
+  "beacons": []
+ },
+ {
+  "id": 15088493,
+  "start": "2026-10-01T07:20:02Z",
+  "end": "2026-10-01T07:29:52Z",
+  "station": "YL3CT-1",
+  "lat": 56.857,
+  "lng": 24.709,
+  "max_elevation": 38.0,
+  "frames_total": 1,
+  "counts": {
+   "payload": 1
+  },
+  "bytes": {
+   "payload": 80
+  },
+  "beacons": []
+ },
+ {
+  "id": 15088475,
+  "start": "2026-10-01T07:20:02Z",
+  "end": "2026-10-01T07:29:52Z",
+  "station": "YL3CT",
+  "lat": 56.857,
+  "lng": 24.709,
+  "max_elevation": 38.0,
+  "frames_total": 73,
+  "counts": {
+   "payload": 50
+  },
+  "bytes": {
+   "payload": 3797
+  },
+  "beacons": []
+ },
+ {
+  "id": 15088499,
+  "start": "2026-10-01T07:21:02Z",
+  "end": "2026-10-01T07:28:51Z",
+  "station": "YL3CT-2",
+  "lat": 56.857,
+  "lng": 24.709,
+  "max_elevation": 38.0,
+  "frames_total": 19,
+  "counts": {
+   "payload": 19
+  },
+  "bytes": {
+   "payload": 1468
+  },
+  "beacons": []
+ },
+ {
+  "id": 15088428,
+  "start": "2026-10-01T07:21:16Z",
+  "end": "2026-10-01T07:30:41Z",
+  "station": "SM0KOT - VHF",
+  "lat": 59.273,
+  "lng": 17.788,
+  "max_elevation": 29.0,
+  "frames_total": 11,
+  "counts": {
+   "payload": 11
+  },
+  "bytes": {
+   "payload": 786
+  },
+  "beacons": []
+ },
+ {
+  "id": 15088424,
+  "start": "2026-10-01T07:21:44Z",
+  "end": "2026-10-01T07:30:17Z",
+  "station": "SM0TGU - VHF UHF",
+  "lat": 59.453,
+  "lng": 17.89,
+  "max_elevation": 29.0,
+  "frames_total": 16,
+  "counts": {
+   "payload": 16
+  },
+  "bytes": {
+   "payload": 1232
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095977,
+  "start": "2026-10-01T07:22:18Z",
+  "end": "2026-10-01T07:30:38Z",
+  "station": "NKUA EVRIPOS - UHF",
+  "lat": 38.570309,
+  "lng": 23.648147,
+  "max_elevation": 30.0,
+  "frames_total": 1,
+  "counts": {
+   "payload": 1
+  },
+  "bytes": {
+   "payload": 7
+  },
+  "beacons": []
+ },
+ {
+  "id": 15096555,
+  "start": "2026-10-01T07:22:41Z",
+  "end": "2026-10-01T07:30:13Z",
+  "station": "RayaanVK6ADX",
+  "lat": -32.1543,
+  "lng": 115.9773,
+  "max_elevation": 71.0,
+  "frames_total": 0,
+  "counts": {},
+  "bytes": {},
+  "beacons": []
+ },
+ {
+  "id": 15092095,
+  "start": "2026-10-01T07:25:55Z",
+  "end": "2026-10-01T07:36:23Z",
+  "station": "EuroSpaceHub-UCM",
+  "lat": 39.569,
+  "lng": -3.186,
+  "max_elevation": 33.0,
+  "frames_total": 3,
+  "counts": {
+   "payload": 1,
+   "U": 1,
+   "message": 1
+  },
+  "bytes": {
+   "payload": 42,
+   "U": 85,
+   "message": 140
+  },
+  "beacons": [
+   {
+    "t": "2026-10-01T07-30-06",
+    "kind": "U",
+    "fields": {
+     "uhf_uptime": 21089693,
+     "uhf_uptime_tot": 56051808,
+     "uhf_reset_cnt": 18,
+     "uhf_rf_reset_cnt": 0,
+     "uhf_trx_temp": 54,
+     "uhf_rf_temp": 111,
+     "uhf_pa_temp": -187,
+     "uhf_digipeater_cnt": 730,
+     "uhf_last_digipeater": "DL7NDR",
+     "uhf_rx_cnt": 31567,
+     "uhf_tx_cnt": 3237586,
+     "uhf_act_rssi_raw": 93,
+     "uhf_dcd_rssi_raw": 103,
+     "uhf_beacon_raw": "U,21089693,56051808,18,0,54,111,-187,730,DL7NDR,31567,3237586,93,103"
+    }
+   },
+   {
+    "t": "2026-10-01T07-34-56",
+    "kind": "message",
+    "fields": {
+     "message": "Young voice from Mladost Zagreb. Our hope: a future where kindness shines brighter than stars and peace connects all people."
+    }
+   }
+  ]
+ },
+ {
+  "id": 15096393,
+  "start": "2026-10-01T07:27:39Z",
+  "end": "2026-10-01T07:34:03Z",
+  "station": "CIA_S4",
+  "lat": 24.971562604021216,
+  "lng": 121.19205965975814,
+  "max_elevation": 41.0,
+  "frames_total": 2,
+  "counts": {
+   "payload": 2
+  },
+  "bytes": {
+   "payload": 1144083
+  },
+  "beacons": []
+ },
+ {
+  "id": 15083933,
+  "start": "2026-10-01T07:29:50Z",
+  "end": "2026-10-01T07:39:30Z",
+  "station": "Piszkesteto UHF",
+  "lat": 47.917,
+  "lng": 19.895,
+  "max_elevation": 20.0,
+  "frames_total": 565,
+  "counts": {
+   "payload": 49,
+   "MGS": 1
+  },
+  "bytes": {
+   "payload": 6978,
+   "MGS": 101
+  },
+  "beacons": [
+   {
+    "t": "2026-10-01T07-35-22",
+    "kind": "MGS",
+    "fields": {
+     "mgs_temp_int_mag": 420,
+     "mgs_temp_int_gyr": 2639,
+     "mgs_int_mag_x": -1507,
+     "mgs_int_mag_y": -12747,
+     "mgs_int_mag_z": -26791,
+     "mgs_int_gyr_x": -96,
+     "mgs_int_gyr_y": 190,
+     "mgs_int_gyr_z": 315,
+     "mgs_temp_ext_mag": 1380,
+     "mgs_temp_ext_gyr": 2679,
+     "mgs_ext_mag_x": -834,
+     "mgs_ext_mag_y": -13410,
+     "mgs_ext_mag_z": -27298,
+     "mgs_ext_gyr_x": 35,
+     "mgs_ext_gyr_y": -242,
+     "mgs_ext_gyr_z": 150,
+     "mgs_beacon_raw": "MGS,420,2639,-1507,-12747,-26791,-96,190,315,1380,2679,-834,-13410,-27298,35,-242,150"
+    }
+   }
+  ]
+ },
+ {
+  "id": 15093728,
+  "start": "2026-10-01T07:30:22Z",
+  "end": "2026-10-01T07:35:32Z",
+  "station": "JF6FYI Nishikazu, KitaKyushu, QFH (UHF)",
+  "lat": 33.895,
+  "lng": 130.84,
+  "max_elevation": 89.0,
+  "frames_total": 16,
+  "counts": {
+   "payload": 16
+  },
+  "bytes": {
+   "payload": 2604
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095978,
+  "start": "2026-10-01T07:32:23Z",
+  "end": "2026-10-01T07:40:44Z",
+  "station": "NKUA EVRIPOS - UHF",
+  "lat": 38.570309,
+  "lng": 23.648147,
+  "max_elevation": 76.0,
+  "frames_total": 174,
+  "counts": {
+   "payload": 48,
+   "U": 1,
+   "SOL": 1
+  },
+  "bytes": {
+   "payload": 7851,
+   "U": 84,
+   "SOL": 69
+  },
+  "beacons": [
+   {
+    "t": "2026-10-01T07-36-06",
+    "kind": "U",
+    "fields": {
+     "uhf_uptime": 21090053,
+     "uhf_uptime_tot": 56052168,
+     "uhf_reset_cnt": 18,
+     "uhf_rf_reset_cnt": 0,
+     "uhf_trx_temp": 132,
+     "uhf_rf_temp": 264,
+     "uhf_pa_temp": 56,
+     "uhf_digipeater_cnt": 730,
+     "uhf_last_digipeater": "DL7NDR",
+     "uhf_rx_cnt": 31602,
+     "uhf_tx_cnt": 3237621,
+     "uhf_act_rssi_raw": 98,
+     "uhf_dcd_rssi_raw": 145,
+     "uhf_beacon_raw": "U,21090053,56052168,18,0,132,264,56,730,DL7NDR,31602,3237621,98,145"
+    }
+   },
+   {
+    "t": "2026-10-01T07-36-28",
+    "kind": "SOL",
+    "fields": {
+     "sol_temp_zp": -669,
+     "sol_temp_xp": 543,
+     "sol_temp_yp": 100,
+     "sol_temp_zn": 462,
+     "sol_temp_xn": -113,
+     "sol_temp_yn": -50,
+     "sol_diode_zp": 180,
+     "sol_diode_xp": 223,
+     "sol_diode_yp": 722,
+     "sol_diode_zn": 619,
+     "sol_diode_xn": 223,
+     "sol_diode_yn": 168,
+     "sol_beacon_raw": "SOL,-669,543,100,462,-113,-50,180,223,722,619,223,168"
+    }
+   }
+  ]
+ },
+ {
+  "id": 15095043,
+  "start": "2026-10-01T07:42:07Z",
+  "end": "2026-10-01T07:46:05Z",
+  "station": "JH4XSY-pi",
+  "lat": 36.0697,
+  "lng": 140.2072,
+  "max_elevation": 22.0,
+  "frames_total": 1,
+  "counts": {
+   "payload": 1
+  },
+  "bytes": {
+   "payload": 58
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095884,
+  "start": "2026-10-01T07:53:44Z",
+  "end": "2026-10-01T07:56:44Z",
+  "station": "PE0SAT-12",
+  "lat": 51.721268,
+  "lng": 5.029968,
+  "max_elevation": 81.0,
+  "frames_total": 7,
+  "counts": {
+   "payload": 7
+  },
+  "bytes": {
+   "payload": 779
+  },
+  "beacons": []
+ },
+ {
+  "id": 15095876,
+  "start": "2026-10-01T07:54:25Z",
+  "end": "2026-10-01T07:57:46Z",
+  "station": "PE0SAT-31",
+  "lat": 51.721268,
+  "lng": 5.029,
+  "max_elevation": 72.0,
+  "frames_total": 3,
+  "counts": {
+   "payload": 3
+  },
+  "bytes": {
+   "payload": 359
+  },
+  "beacons": []
+ }
+]
